@@ -1,0 +1,2017 @@
+MÃ CK	TÊN CÔNG TY	GIÁ	SÀN
+AAA	Công ty Cổ phần Nhựa An Phát Xanh	11.95	HSX
+AAM	Công ty Cổ phần Thủy sản Mekong	11.7	HSX
+AAT	Công ty Cổ phần Tập đoàn Tiên Sơn Thanh Hóa	9.3	HSX
+ABR	Công ty Cổ phần Đầu tư Nhãn hiệu Việt	13	HSX
+ABS	Công ty cổ phần Dịch vụ Nông nghiệp Bình Thuận	11.7	HSX
+ABT	Công ty Cổ phần Xuất nhập khẩu Thủy sản Bến Tre	39.55	HSX
+ACB	Ngân hàng Thương mại Cổ phần Á Châu	23.9	HSX
+ACC	Công ty Cổ phần Đầu tư và Xây dựng Bình Dương ACC	14.2	HSX
+ACL	Công ty cổ phần Xuất nhập khẩu Thủy sản Cửu Long An Giang	24.3	HSX
+ADG	Công ty cổ phần Clever Group	39.6	HSX
+ADS	Công ty cổ phần Damsan	19.1	HSX
+AGD	Công ty Cổ phần Gò Đàng	41.5	HSX
+AGG	Công ty Cổ phần Đầu tư và Phát triển Bất động sản An Gia	39.1	HSX
+AGM	Công ty cổ phần Xuất nhập khẩu An Giang	27.25	HSX
+AGR	Công ty Cổ phần Chứng khoán Agribank	10.1	HSX
+ALP	Công ty Cổ phần Đầu tư Alphanam	3.4	HSX
+AMD	Công ty cổ phần Đầu tư và Khoáng sản FLC Stone	3.13	HSX
+ANC11601	Trái Phiếu Công ty Cổ phần Dinh dưỡng Nông nghiệp Quốc tế		HSX
+ANV	Công ty Cổ phần Nam Việt	57.1	HSX
+APC	Công ty Cổ phần Chiếu xạ An Phú	17.6	HSX
+APG	Công ty Cổ phần Chứng khoán APG	6.96	HSX
+APH	Công ty Cổ phần Tập đoàn An Phát Holdings	12.5	HSX
+ASG	Cổ phiếu Công ty Cổ phần Tập đoàn ASG	28.6	HSX
+ASIAGF	Quỹ đầu tư tăng trưởng ACB	10.8	HSX
+ASM	Công ty Cổ phần Tập đoàn Sao Mai	15.6	HSX
+ASP	Công ty Cổ phần Tập đoàn Dầu khí An Pha	6.75	HSX
+AST	Công ty Cổ phần Dịch vụ Hàng không Taseco	58.5	HSX
+BAF	Công ty Cổ phần Nông nghiệp BaF Việt Nam	33.7	HSX
+BAS	Công ty Cổ phần Basa	1.5	HSX
+BBC	Công ty Cổ phần Bibica	93.4	HSX
+BCE	Công ty Cổ phần Xây dựng và Giao thông Bình Dương	8.9	HSX
+BCG	Công ty cổ phần Bamboo Capital	15.15	HSX
+BCI	Công ty Cổ phần Đầu tư Xây dựng Bình Chánh	41.9	HSX
+BCM	Tổng Công ty Đầu tư và phát triển Công nghiệp - CTCP	61.7	HSX
+BFC	Công ty cổ phần Phân bón Bình Điền	21.5	HSX
+BGM	Công ty Cổ phần Khai thác và Chế biến Khoáng sản Bắc Giang	0.92	HSX
+BHN	Tổng CTCP Bia - Rượu - Nước giải khát Hà Nội	52.5	HSX
+BHS	Công ty Cổ phần Đường Biên Hòa	22	HSX
+BIC	Tổng Công ty Cổ phần Bảo hiểm Ngân hàng Đầu tư và phát triển Việt Nam	27.9	HSX
+BID	Ngân hàng Thương mại cổ phần Đầu tư và Phát triển Việt Nam	31.8	HSX
+BKG	Công ty Cổ phần Đầu tư BKG Việt Nam	5.55	HSX
+BMC	Công ty cổ phần Khoáng sản Bình Định	13.5	HSX
+BMI	Tổng Công ty Cổ phần Bảo Minh	30.2	HSX
+BMP	Công ty Cổ phần Nhựa Bình Minh	55.5	HSX
+BRC	Công ty Cổ phần Cao su Bến Thành	12.65	HSX
+BSI	Công ty cổ phần Chứng khoán Ngân hàng Đầu tư và Phát triển Việt Nam	23.3	HSX
+BTP	Công ty Cổ phần Nhiệt điện Bà Rịa	16.6	HSX
+BTT	Công ty Cổ phần Thương mại - Dịch vụ Bến Thành	47.55	HSX
+BVH	Tập đoàn Bảo Việt	55.9	HSX
+BWE	Công ty Cổ phần Nước – Môi trường Bình Dương	50.6	HSX
+C32	Công ty Cổ phần CIC39	25.4	HSX
+C47	Công ty Cổ phần Xây dựng 47	12.8	HSX
+CAV	Công ty cổ phần Dây Cáp Điện Việt Nam	58.7	HSX
+CCI	Công ty Cổ phần Đầu tư Phát triển Công nghiệp - Thương mại Củ Chi	30.2	HSX
+CCL	Công ty cổ phần Đầu tư và Phát triển Đô thị Dầu khí Cửu Long	10.15	HSX
+CDC	Công ty Cổ phần Chương Dương	17.15	HSX
+CEE	Công ty Cổ phần Xây dựng Hạ tầng CII	10.7	HSX
+CFPT2016	Chứng quyền FPT/8M/SSI/C/EU/Cash-08	9.32	HSX
+CFPT2101	Chứng quyền CFPT04MBS20CE	4.5	HSX
+CFPT2102	Chứng quyền FPT/VCSC/M/Au/T/A3	0.85	HSX
+CFPT2103	Chứng quyền FPT-HSC-MET07	0.08	HSX
+CFPT2104	Chứng quyền FPT/ACBS/Call/EU/Cash/4M/10	1.85	HSX
+CFPT2105	Chứng quyền FPT/5M/SSI/C/EU/Cash-10	1.62	HSX
+CHDB2101	Chứng quyền.HDB.KIS.M.CA.T.06	4.92	HSX
+CHP	Công ty Cổ phần Thủy điện miền Trung	24	HSX
+CHPG2020	Chứng quyền.HPG.VND.M.CA.T.2020.02	43.99	HSX
+CHPG2101	Chứng quyền.HPG.KIS.M.CA.T.10	10.1	HSX
+CHPG2102	Chứng quyền HPG/ACBS/Call/EU/Cash/6M/02	30.5	HSX
+CHPG2103	Chứng quyền.HPG.VND.M.CA.T.2020.03	14.08	HSX
+CHPG2104	Chứng quyền CHPG04MBS20CE	8.75	HSX
+CHPG2105	Chứng quyền HPG-HSC-MET06	19.77	HSX
+CHPG2106	Chứng quyền CHPG01MBS21CE	7.54	HSX
+CHPG2107	Chứng quyền.HPG.KIS.M.CA.T.11	6.8	HSX
+CHPG2108	Chứng quyền.HPG.KIS.M.CA.T.12	6.5	HSX
+CHPG2109	Chứng quyền HPG/VCSC/M/Au/T/A2	0.12	HSX
+CHPG2110	Chứng quyền HPG/ACBS/Call/EU/Cash/4M/05	0.91	HSX
+CHPG2111	Chứng quyền HPG/5M/SSI/C/EU/Cash-10	0.02	HSX
+CIG	Công ty Cổ phần COMA18	6.23	HSX
+CII	Công ty cổ phần Đầu tư Hạ tầng Kỹ thuật T.P Hồ Chí Minh	17.4	HSX
+CII41401	Trái phiếu chuyển đổi Công ty cổ phần Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh		HSX
+CKDH2002	Chứng quyền.KDH.KIS.M.CA.T.03	3.9	HSX
+CKDH2101	Chứng quyền.KDH.KIS.M.CA.T.04	2.8	HSX
+CKDH2102	Chứng quyền CKDH01MBS21CE	6.5	HSX
+CKDH2103	Chứng quyền CKDH2103	0.05	HSX
+CKG	CTCP Tập đoàn Tư vấn Đầu tư & Xây dựng Kiên Giang	13.6	HSX
+CLC	Công ty Cổ phần Cát Lợi	35	HSX
+CLL	Công ty cổ phần Cảng Cát Lái	28.2	HSX
+CLP	Công ty Cổ phần Thủy Sản Cửu Long	3.4	HSX
+CLW	Công ty Cổ phần Cấp nước Chợ Lớn	35.5	HSX
+CMBB2010	Chứng quyền MBB/8M/SSI/C/EU/Cash-08	21.96	HSX
+CMBB2101	Chứng quyền.MBB.VND.M.CA.T.2020.03	8.5	HSX
+CMBB2103	Chứng quyền MBB-HSC-MET07	0.02	HSX
+CMG	Công ty Cổ phần Tập đoàn Công nghệ CMC	59.6	HSX
+CMSN2101	''	3.6	HSX
+CMSN2102	Chứng quyền.MSN.KIS.M.CA.T.10	2.3	HSX
+CMSN2103	Chứng quyền CMSN01MBS21CE	7.3	HSX
+CMSN2104	Chứng quyền MSN/ACBS/Call/EU/Cash/9M/09	2.3	HSX
+CMSN2105	Chứng quyền MSN/5M/SSI/C/EU/Cash-10	8.32	HSX
+CMSN2106	Chứng quyền CMSN2106	0.08	HSX
+CMV	Công ty Cổ phần Thương nghiệp Cà Mau	13.4	HSX
+CMWG2013	Chứng quyền.MWG.VND.M.CA.T.2020.02	24.95	HSX
+CMWG2016	Chứng quyền MWG-HSC-MET07	2.78	HSX
+CMWG2101	Chứng quyền.MWG.VND.M.CA.T.2020.03	3.64	HSX
+CMWG2102	Chứng quyền MWG/VCSC/M/Au/T/A3	9	HSX
+CMWG2103	Chứng quyền CMWG04MBS20CE	2.1	HSX
+CMWG2104	Chứng quyền MWG/ACBS/Call/EU/Cash/12M/04	6.3	HSX
+CMWG2105	Chứng quyền CMWG01MBS21CE	3.76	HSX
+CMWG2106	Chứng quyền MWG-HSC-MET08	2.56	HSX
+CMWG2107	Chứng quyền MWG/5M/SSI/C/EU/Cash-10	8.17	HSX
+CMX	Công ty Cổ phần Camimex Group	17.4	HSX
+CNG	Công ty cổ phần CNG Việt Nam	38.25	HSX
+CNVL2003	Chứng quyền.NVL.KIS.M.CA.T.04	7.84	HSX
+CNVL2101	Chứng quyền.NVL.KIS.M.CA.T.05	6.5	HSX
+CNVL2102	Chứng quyền.NVL.KIS.M.CA.T.06	0.69	HSX
+COM	Công ty Cổ phần Vật tư - Xăng dầu	58.1	HSX
+CPDR2101	Chứng quyền.PDR.KIS.M.CA.T.01	0.07	HSX
+CPDR2102	Chứng quyền.PDR.KIS.M.CA.T.02	0.05	HSX
+CPNJ2101	Chứng quyền.PNJ.VND.M.CA.T.2020.02	2.15	HSX
+CPNJ2102	Chứng quyền PNJ/VCSC/M/Au/T/A2	6.1	HSX
+CPNJ2103	Chứng quyền CPNJ04MBS20CE	3.51	HSX
+CPNJ2104	Chứng quyền PNJ-HSC-MET04	0.04	HSX
+CPNJ2105	Chứng quyền PNJ/5M/SSI/C/EU/Cash-10	0.15	HSX
+CRC	Công ty Cổ phần Create Capital Việt Nam	6.42	HSX
+CRE	Công ty Cổ phần Bất động sản Thế Kỷ	21.3	HSX
+CREE2101	Chứng quyền.REE.VND.M.CA.T.2020.04	2.25	HSX
+CSBT2101	Chứng quyền.SBT.KIS.M.CA.T.04	2.7	HSX
+CSG	Công ty Cổ phần Cáp Sài Gòn	12.2	HSX
+CSM	Công ty Cổ phần Công nghiệp Cao su Miền Nam	18.1	HSX
+CSTB2007	Chứng quyền.STB.KIS.M.CA.T.07	9.11	HSX
+CSTB2010	Chứng quyền.STB.KIS.M.CA.T.08	9.06	HSX
+CSTB2014	Chứng quyền STB/8M/SSI/C/EU/Cash-08	17	HSX
+CSTB2101	Chứng quyền.STB.KIS.M.CA.T.11	6.3	HSX
+CSTB2102	Chứng quyền CSTB04MBS20CE	14.1	HSX
+CSTB2103	Chứng quyền STB-HSC-MET02	9.6	HSX
+CSTB2104	Chứng quyền CSTB01MBS21CE	4.59	HSX
+CSTB2105	Chứng quyền STB/VCSC/M/Au/T/A1	2	HSX
+CSTB2106	Chứng quyền CSTB2106	0.08	HSX
+CSV	Công ty Cổ phần Hóa chất Cơ bản miền Nam	43.15	HSX
+CTCB2012	Chứng quyền TCB/8M/SSI/C/EU/Cash-09	30.6	HSX
+CTCB2101	Chứng quyền TCB/ACBS/Call/EU/Cash/9M/05	29.1	HSX
+CTCB2102	Chứng quyền.TCB.VND.M.CA.T.2020.02	8.49	HSX
+CTCB2103	Chứng quyền TCB-HSC-MET05	10.1	HSX
+CTCB2104	Chứng quyền CTCB01MBS21CE	1.85	HSX
+CTCB2105	Chứng quyền TCB/ACBS/Call/EU/Cash/9M/06	0.01	HSX
+CTCH2003	Chứng quyền.TCH.KIS.M.CA.T.03	2.6	HSX
+CTCH2101	Chứng quyền.TCH.KIS.M.CA.T.04	3.2	HSX
+CTCH2102	Chứng quyền CTCH01MBS21CE	3.2	HSX
+CTCH2103	Chứng quyền.TCH.KIS.M.CA.T.05	1.8	HSX
+CTD	Công ty Cổ phần Xây dựng Coteccons	53.8	HSX
+CTF	Công ty cổ phần City Auto	26.4	HSX
+CTG	Ngân hàng Thương mại Cổ phần Công thương Việt Nam	25.5	HSX
+CTI	Công ty Cổ phần Đầu tư Phát triển Cường Thuận IDICO	13.45	HSX
+CTR	Tổng Công ty Cổ phần Công trình Viettel	62.9	HSX
+CTS	Công ty cổ phần Chứng khoán Ngân hàng Công thương Việt Nam	16.45	HSX
+CVHM2008	Chứng quyền.VHM.KIS.M.CA.T.05	1.61	HSX
+CVHM2101	Chứng quyền.VHM.KIS.M.CA.T.06	3.6	HSX
+CVHM2102	Chứng quyền.VHM.VND.M.CA.T.2020.01	2.95	HSX
+CVHM2103	Chứng quyền CVHM01MBS20CE	1.06	HSX
+CVHM2104	Chứng quyền VHM-HSC-MET05	3.5	HSX
+CVHM2105	Chứng quyền CVHM01MBS21CE	4.2	HSX
+CVHM2106	Chứng quyền.VHM.KIS.M.CA.T.07	4	HSX
+CVHM2107	Chứng quyền VHM/5M/SSI/C/EU/Cash-10	0.15	HSX
+CVIC2005	Chứng quyền.VIC.KIS.M.CA.T.07	1.23	HSX
+CVIC2101	Chứng quyền.VIC.KIS.M.CA.T.09	2.8	HSX
+CVIC2102	Chứng quyền CVIC01MBS20CE	1.75	HSX
+CVIC2103	Chứng quyền.VIC.KIS.M.CA.T.10	0.05	HSX
+CVIC2104	Chứng quyền VIC-HSC-MET02	0.04	HSX
+CVIC2105	Chứng quyền VIC/5M/SSI/C/EU/Cash-10	0.02	HSX
+CVJC2006	Chứng quyền.VJC.KIS.M.CA.T.05	0.15	HSX
+CVJC2101	Chứng quyền VJC/5M/SSI/C/EU/Cash-10	1.27	HSX
+CVJC2102	Chứng quyền CVJC2102	0.1	HSX
+CVNM2011	Chứng quyền.VNM.KIS.M.CA.T.06	0.04	HSX
+CVNM2101	Chứng quyền.VNM.KIS.M.CA.T.08	2.4	HSX
+CVNM2102	Chứng quyền.VNM.VND.M.CA.T.2020.02	0.05	HSX
+CVNM2103	Chứng quyền CVNM04MBS20CE	0.09	HSX
+CVNM2104	Chứng quyền CVNM01MBS21CE	3.4	HSX
+CVNM2105	Chứng quyền.VNM.KIS.M.CA.T.09	0.03	HSX
+CVNM2106	Chứng quyền VNM/VCSC/M/Au/T/A2	0.02	HSX
+CVNM2107	Chứng quyền VNM-HSC-MET06	0.02	HSX
+CVNM2108	Chứng quyền VNM/ACBS/Call/EU/Cash/4M/07	0.87	HSX
+CVNM2109	Chứng quyền VNM/5M/SSI/C/EU/Cash-10	0.02	HSX
+CVPB2015	Chứng quyền VPB/8M/SSI/C/EU/Cash-09	50.1	HSX
+CVPB2101	Chứng quyền.VPB.VND.M.CA.T.2020.02	15.8	HSX
+CVPB2102	Chứng quyền CVPB04MBS20CE	16.6	HSX
+CVPB2103	Chứng quyền VPB-HSC-MET06	14	HSX
+CVPB2104	Chứng quyền CVPB01MBS21CE	4.1	HSX
+CVPB2105	Chứng quyền CVPB2105	0.08	HSX
+CVRE2009	Chứng quyền.VRE.KIS.M.CA.T.07	0.09	HSX
+CVRE2011	Chứng quyền.VRE.KIS.M.CA.T.09	0.09	HSX
+CVRE2013	Chứng quyền VRE/8M/SSI/C/EU/Cash-09	7.7	HSX
+CVRE2101	Chứng quyền.VRE.KIS.M.CA.T.10	2.1	HSX
+CVRE2102	Chứng quyền.VRE.VND.M.CA.T.2020.01	0.42	HSX
+CVRE2103	Chứng quyền VRE-HSC-MET06	2.6	HSX
+CVRE2104	Chứng quyền CVRE01MBS21CE	4.4	HSX
+CVRE2105	Chứng quyền VRE/ACBS/Call/EU/Cash/9M/08	0.06	HSX
+CVRE2106	Chứng quyền VRE/5M/SSI/C/EU/Cash-10	1.25	HSX
+CVT	Công ty Cổ phần CMC	40	HSX
+D2D	Công ty Cổ phần Phát triển Đô thị Công nghiệp Số 2	42.8	HSX
+DAG	Công ty Cổ phần Tập đoàn Nhựa Đông Á	5.62	HSX
+DAH	Công ty cổ phần Tập đoàn Khách sạn Đông Á	6.84	HSX
+DAT	Công ty Cổ phần Đầu tư Du lịch và Phát triển Thủy sản	16.95	HSX
+DBC	Công ty Cổ phần Tập đoàn Dabaco Việt Nam	20.8	HSX
+DBD	Công ty Cổ phần Dược - Trang thiết bị Y tế Bình Định	41.75	HSX
+DBT	Công ty Cổ phần Dược phẩm Bến Tre	11.55	HSX
+DC4	Công ty Cổ phần Xây dựng DIC Holdings	8.86	HSX
+DCC	Công ty Cổ phần Xây dựng Công nghiệp DESCON	9.5	HSX
+DCL	Công ty Cổ phần Dược phẩm Cửu Long	24.9	HSX
+DCM	Công ty Cổ phần Phân bón Dầu khí Cà Mau	32.5	HSX
+DGC	Công ty Cổ phần Tập đoàn Hóa chất Đức Giang	120	HSX
+DGW	Công ty cổ phần Thế giới số	121.1	HSX
+DHA	Công ty Cổ phần Hóa An	38.25	HSX
+DHC	Công ty Cổ phần Đông Hải Bến Tre	65.7	HSX
+DHG	Công ty Cổ phần Dược Hậu Giang	88.1	HSX
+DHM	Công ty cổ phần Thương mại và khai thác khoáng sản Dương Hiếu	10.2	HSX
+DIG	Tổng Công ty Cổ phần Đầu tư Phát triển Xây dựng	36.7	HSX
+DLG	Công ty Cổ phần Tập đoàn Đức Long Gia Lai	3.83	HSX
+DMC	Công ty Cổ phần Xuất nhập khẩu Y tế Domesco	50.8	HSX
+DPG	Công ty Cổ phần Tập đoàn Đạt Phương	48.5	HSX
+DPM	Tổng Công ty Phân bón và Hóa chất Dầu khí-CTCP	47.9	HSX
+DPR	Công ty Cổ phần Cao su Đồng Phú	75.4	HSX
+DQC	Công ty Cổ phần Bóng đèn Điện Quang	22.2	HSX
+DRC	Công ty Cổ phần Cao su Đà Nẵng	27.65	HSX
+DRH	Công ty cổ phần DRH Holdings	8.51	HSX
+DRL	Công ty Cổ phần Thủy điện – Điện lực 3	64.2	HSX
+DSN	Công ty Cổ phần Công viên nước Đầm Sen	46	HSX
+DTA	Công ty Cổ phần Đệ Tam	8.6	HSX
+DTL	Công ty Cổ phần Đại Thiên Lộc	26.5	HSX
+DTT	Công ty Cổ phần Kỹ nghệ Đô Thành	15.9	HSX
+DVD	Công ty Cổ phần Dược phẩm Viễn Đông	3.5	HSX
+DVP	Công ty cổ phần Đầu tư và Phát triển Cảng Đình Vũ	52.4	HSX
+DXG	Công ty Cổ phần Tập đoàn Đất Xanh	20.95	HSX
+DXS	Công ty Cổ phần Dịch vụ Bất động sản Đất Xanh	17.75	HSX
+DXV	Công ty Cổ phần VICEM Vật liệu Xây dựng Đà Nẵng	5.23	HSX
+E1VFVN30	Quỹ ETF VFMVN30	21.12	HSX
+EIB	Ngân hàng Thương mại Cổ phần Xuất nhập khẩu Việt Nam	31.4	HSX
+ELC	Công ty Cổ phần công nghệ - viễn thông ELCOM	16.35	HSX
+EMC	Công ty cổ phần Cơ điện Thủ Đức	22.2	HSX
+EVE	Công ty cổ phần Everpia	13.4	HSX
+EVF	Công ty Tài chính cổ phần Điện lực	10	HSX
+EVG	Công ty Cổ phần Đầu tư Everland	7.09	HSX
+FBT	Công ty Cổ phần Xuất nhập khẩu Lâm Thủy sản Bến Tre	4.7	HSX
+FCM	Công ty cổ phần Khoáng sản FECON	4.89	HSX
+FCN	Công ty cổ phần FECON	13.5	HSX
+FDC	Công ty Cổ phần Ngoại thương và Phát triển Đầu tư Thành phố Hồ Chí Minh	27.15	HSX
+FIR	Công ty Cổ phần Địa ốc First Real	42.8	HSX
+FIT	Công ty cổ phần Tập đoàn F.I.T	6.41	HSX
+FLC	Công ty cổ phần Tập đoàn FLC	4.95	HSX
+FMC	Công ty Cổ phần Thực phẩm Sao Ta	62.4	HSX
+FPC	Công ty Cổ phần Full Power	1.6	HSX
+FPT	Công ty Cổ phần FPT	88.6	HSX
+FRT	Công ty cổ phần Bán lẻ Kỹ thuật số FPT	91.1	HSX
+FTS	Công ty Cổ phần Chứng khoán FPT	35.7	HSX
+FUCTVGF1	Quỹ Đầu tư tăng trưởng TVAM	12.35	HSX
+FUCTVGF2	Quỹ Đầu tư tăng trưởng Thiên Việt 2	13.3	HSX
+FUCTVGF3	Quỹ Đầu tư Tăng trưởng Thiên Việt 3	12.8	HSX
+FUCVREIT	Quỹ Đầu tư Bất động sản Techcom Việt Nam	8.95	HSX
+FUEIP100	Quỹ ETF IPAAM VN100	9	HSX
+FUEKIV30	Quỹ ETF KIM Growth VN30	8.21	HSX
+FUEMAV30	Quỹ ETF MAFM VN30	14.71	HSX
+FUESSV30	Quỹ ETF SSIAM VN30	15.52	HSX
+FUESSV50	Quỹ ETF SSIAM VNX50	18.2	HSX
+FUESSVFL	Quỹ ETF SSIAM VNFIN LEAD	16.03	HSX
+FUEVFVND	Quỹ ETF VFMVN DIAMOND	27.27	HSX
+FUEVN100	Quỹ ETF VINACAPITAL VN100	15.9	HSX
+GAB	Công ty Cổ phần Đầu tư khai khoáng và Quản lý tài sản FLC	196.4	HSX
+GAS	Tổng Công ty Khí Việt Nam-CTCP	117	HSX
+GDT	Công ty Cổ phần Chế biến Gỗ Đức Thành	46	HSX
+GEG	Công ty Cổ phần Điện Gia Lai	24.25	HSX
+GEX	Công ty Cổ phần Tập đoàn GELEX	20.45	HSX
+GIL	Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Bình Thạnh	55	HSX
+GMC	Công ty Cổ phần Garmex Sài Gòn	22.4	HSX
+GMD	Công ty Cổ phần Gemadept	52.5	HSX
+GMH	Công ty Cổ phần Minh Hưng Quảng Trị	17.1	HSX
+GSP	Công ty cổ phần Vận tải Sản phẩm khí quốc tế	10.5	HSX
+GTA	Công ty Cổ phần Chế biến Gỗ Thuận An	14.75	HSX
+GTN	Công ty cổ phần GTNfoods	18.8	HSX
+GVR	Tập đoàn Công nghiệp Cao su Việt Nam	23.45	HSX
+HAG	Công ty Cổ phần Hoàng Anh Gia Lai	8.99	HSX
+HAH	Công ty Cổ phần Vận tải và Xếp dỡ Hải An	71.7	HSX
+HAI	Công ty Cổ phần Nông dược H.A.I	2.54	HSX
+HAP	Công ty Cổ phần Tập đoàn Hapaco	6.8	HSX
+HAR	Công ty Cổ phần Đầu tư Thương mại Bất động sản An Dương Thảo Điền	4.96	HSX
+HAS	Công ty Cổ phần HACISCO	11.6	HSX
+HAX	Công ty Cổ phần Dịch vụ Ô tô Hàng Xanh	19.7	HSX
+HBC	Công ty cổ phần Tập đoàn Xây dựng Hoà Bình	18.15	HSX
+HCD	Công ty Cổ phần Đầu tư Sản xuất và Thương mại HCD	8.79	HSX
+HCM	Công ty Cổ phần Chứng khoán Thành phố Hồ Chí Minh	21.4	HSX
+HDB	Ngân hàng TMCP Phát triển T.P Hồ Chí Minh	23.35	HSX
+HDC	Công ty Cổ phần Phát triển nhà Bà Rịa-Vũng Tàu	37.7	HSX
+HDG	Công ty Cổ phần Tập đoàn Hà Đô	55	HSX
+HHP	Công ty cổ phần Giấy Hoàng Hà Hải Phòng	9.72	HSX
+HHS	Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy	5.74	HSX
+HHV	CTCP Đầu tư hạ tầng giao thông Đèo Cả	12.3	HSX
+HID	Công ty Cổ phần Halcom Việt Nam	6	HSX
+HII	Công ty Cổ phần An Tiến Industries	7.19	HSX
+HMC	Công ty Cổ phần Kim khí Thành phố Hồ Chí Minh - Vnsteel	16.3	HSX
+HNG	Công ty cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai	5.45	HSX
+HOT	Công ty cổ phần Du lịch - Dịch vụ Hội An	37.9	HSX
+HPG	Công ty cổ phần Tập đoàn Hòa Phát	22.55	HSX
+HPX	Công ty cổ phần Đầu tư Hải Phát	27.6	HSX
+HQC	Công ty cổ phần Tư vấn-Thương mại-Dịch vụ Địa ốc Hoàng Quân	4.18	HSX
+HRC	Công ty Cổ phần Cao su Hòa Bình	54	HSX
+HSG	Công ty Cổ phần Tập đoàn Hoa Sen	16.9	HSX
+HSL	Công ty Cổ phần Đầu tư Phát triển Thực phẩm Hồng Hà	6.25	HSX
+HT1	Công ty Cổ phần xi măng VICEM Hà Tiên	15.9	HSX
+HT2	Công ty Cổ phần Xi măng Hà Tiên 2	14.5	HSX
+HTI	Công ty Cổ phần Đầu tư phát triển hạ tầng IDICO	17.5	HSX
+HTL	Công ty Cổ phần Kỹ thuật và Ô tô Trường Long	19.65	HSX
+HTN	Công ty Cổ phần Hưng Thịnh Incons	30.95	HSX
+HTV	Công ty Cổ phần Logistics Vicem	12.3	HSX
+HU1	Công ty Cổ phần Đầu tư và Xây dựng HUD1	9.1	HSX
+HU3	Công ty cổ phần Đầu tư và Xây dựng HUD3	6.96	HSX
+HUB	Công ty cổ phần Xây lắp Thừa Thiên Huế	24.7	HSX
+HVH	Công ty Cổ phần Đầu tư và Công nghệ HVC	6.2	HSX
+HVN	Tổng Công ty Hàng không Việt Nam - CTCP	17.05	HSX
+HVX	Công ty Cổ phần Xi măng Vicem Hải Vân	4.23	HSX
+IBC	Công ty Cổ phần Đầu tư Apax Holdings	19.85	HSX
+ICT	Công ty cổ phần Viễn thông - Tin học Bưu điện	16.55	HSX
+IDI	Công ty Cổ phần Đầu tư và Phát triển Đa Quốc Gia I.D.I	21.85	HSX
+IJC	Công ty Cổ phần Phát triển Hạ tầng Kỹ thuật	19.25	HSX
+ILB	Công ty Cổ phần ICD Tân Cảng – Long Bình	35.7	HSX
+IMP	Công ty Cổ phần Dược phẩm IMEXPHARM	59.8	HSX
+ITA	Công ty Cổ phần Đầu tư và Công nghiệp Tân Tạo	7.72	HSX
+ITC	Công ty Cổ phần Đầu tư - Kinh doanh nhà	9.8	HSX
+ITD	Công ty Cổ phần Công nghệ Tiên Phong	12.4	HSX
+JVC	Công ty cổ phần Thiết bị Y tế Việt Nhật	4.98	HSX
+KBC	Tổng Công ty Phát triển Đô thị Kinh Bắc-CTCP	31.95	HSX
+KDC	Công ty Cổ phần Tập đoàn Kido	64.1	HSX
+KDH	Công ty Cổ phần Đầu tư và Kinh doanh nhà Khang Điền	39.35	HSX
+KHG	Công ty Cổ phần Tập đoàn Khải Hoàn Land	7.2	HSX
+KHP	Công ty Cổ phần Điện lực Khánh Hòa	10.4	HSX
+KMR	Công ty Cổ phần Mirae	4.31	HSX
+KOS	Công ty Cổ phần Kosy	33.8	HSX
+KPF	Công ty Cổ phần Đầu tư tài chính Hoàng Minh	10.25	HSX
+KSB	Công ty Cổ phần Khoáng sản và Xây dựng Bình Dương	26.3	HSX
+L10	Công ty cổ phần Lilama 10	28.5	HSX
+LAF	Công ty Cổ phần Chế biến Hàng xuất khẩu Long An	18.6	HSX
+LBM	Công ty Cổ phần Khoáng sản và Vật liệu xây dựng Lâm Đồng	84.2	HSX
+LCG	Công ty cổ phần LIZEN	10.85	HSX
+LCM	Công ty Cổ phần Khai thác và Chế biến Khoáng sản Lào Cai	2.89	HSX
+LDG	Công ty Cổ phần Đầu tư LDG	8.43	HSX
+LEC	Công ty Cổ phần Bất động sản Điện lực Miền Trung	10.85	HSX
+LGC	Công ty Cổ phần Đầu tư Cầu đường CII	41.95	HSX
+LGL	Công ty cổ phần Đầu tư và Phát triển Đô thị Long Giang	5.4	HSX
+LHG	Công ty Cổ phần Long Hậu	32.85	HSX
+LIX	Công ty Cổ phần Bột giặt Lix	42	HSX
+LM8	Công ty Cổ phần Lilama 18	11.45	HSX
+LPB	Ngân hàng Thương mại cổ phần Bưu điện Liên Việt	12.6	HSX
+LSS	Công ty Cổ phần Mía đường Lam Sơn	9.6	HSX
+MAFPF1	Quỹ đầu tư tăng trưởng Manulife	10.1	HSX
+MBB	Ngân hàng Thương mại cổ phần Quân đội	23.75	HSX
+MCG	Công ty Cổ phần Năng Lượng và Bất động sản MCG	3.66	HSX
+MCP	Công ty cổ phần In và Bao bì Mỹ Châu	30.3	HSX
+MCV	Công ty Cổ phần Cavico Việt Nam Khai thác Mỏ và Xây dựng	3.6	HSX
+MDG	Công ty Cổ phần miền Đông	17.35	HSX
+MHC	Công ty Cổ phần MHC	5.7	HSX
+MIG	Tổng Công ty cổ phần Bảo hiểm Quân đội	26	HSX
+MSB	Ngân hàng Thương mại cổ phần Hàng hải Việt Nam	16.65	HSX
+MSH	Công ty cổ phần May Sông Hồng	54.2	HSX
+MSN	Công ty Cổ phần Tập đoàn MaSan	111.9	HSX
+MSNKISMCAT11	Chứng quyền MSN.KIS.M.CA.T.11		HSX
+MWG	Công ty cổ phần Đầu tư Thế giới Di động	71.8	HSX
+NAF	Công ty Cổ phần Nafoods Group	11.3	HSX
+NAV	Công ty Cổ phần Nam Việt	22.8	HSX
+NBB	Công ty Cổ phần Đầu tư Năm Bảy Bảy	16.25	HSX
+NCT	Công ty Cổ phần Dịch vụ Hàng hóa Nội Bài	99.1	HSX
+NHA	Tổng Công ty Đầu tư Phát triển Nhà và Đô thị Nam Hà Nội	20.6	HSX
+NHH	Công ty Cổ phần Nhựa Hà Nội	13.6	HSX
+NHS	Công ty Cổ phần Đường Ninh Hòa	15.8	HSX
+NHT	Công ty Cổ phần Sản xuất và Thương mại Nam Hoa	23.4	HSX
+NHW	Công ty Cổ phần Ngô Han	10.8	HSX
+NKD	Công ty Cổ phần Chế biến Thực phẩm Kinh Đô Miền Bắc	41.2	HSX
+NKG	Công ty Cổ phần Thép Nam Kim	18.35	HSX
+NLG	Công ty cổ phần Đầu tư Nam Long	36.4	HSX
+NNC	Công ty Cổ phần Đá Núi Nhỏ	17.6	HSX
+NSC	Công ty cổ phần Tập đoàn Giống cây trồng Việt Nam	93.4	HSX
+NT2	Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2	25.35	HSX
+NTL	Công ty Cổ phần Phát triển Đô thị Từ Liêm	23.9	HSX
+NVL	Công ty cổ phần Tập đoàn Đầu tư Địa ốc No Va	75.7	HSX
+NVN	Công ty Cổ phần Nhà Việt Nam	1.4	HSX
+NVT	Công ty Cổ phần Bất động sản Du lịch Ninh Vân Bay	13	HSX
+OCB	Ngân hàng Thương mại cổ phần Phương Đông	16.75	HSX
+OGC	Công ty Cổ phần Tập đoàn Đại Dương	11.15	HSX
+OPC	Công ty cổ phần Dược phẩm OPC	57.2	HSX
+ORS	Công ty Cổ phần Chứng khoán Tiên Phong	15.75	HSX
+PAC	Công ty Cổ phần Pin Ắc quy Miền Nam	35.4	HSX
+PAN	Công ty Cổ phần Tập đoàn PAN	21.5	HSX
+PC1	Công ty cổ phần Xây lắp điện 1	39.5	HSX
+PDN	Công ty Cổ phần Cảng Đồng Nai	101.6	HSX
+PDR	Công ty cổ phần Phát triển Bất động sản Phát Đạt	52.5	HSX
+PET	Tổng Công ty Cổ phần Dịch vụ Tổng hợp Dầu khí	38.7	HSX
+PGC	Tổng Công ty Gas Petrolimex-CTCP	17.75	HSX
+PGD	Công ty Cổ phần Phân phối Khí thấp áp Dầu khí Việt Nam	33.5	HSX
+PGI	Tổng Công ty cổ phần Bảo hiểm Petrolimex	26.3	HSX
+PGV	Tổng Công ty Phát điện 3 - Công ty cổ phần	25.7	HSX
+PHC	Công ty cổ phần Xây dựng Phục Hưng Holdings	7.65	HSX
+PHR	Công ty cổ phần Cao su Phước Hòa	68.7	HSX
+PHT	Công ty Cổ phần Sản xuất và Thương mại Phúc Tiến	5.5	HSX
+PIT	Công ty Cổ phần Xuất nhập khẩu Petrolimex	7.31	HSX
+PJT	Công ty Cổ phần Vận tải Xăng dầu Đường thủy Petrolimex	10.15	HSX
+PLP	Công ty Cổ phần Sản xuất và Công nghệ Nhựa Pha Lê	7.45	HSX
+PLX	Tập đoàn Xăng dầu Việt Nam	41.85	HSX
+PME	Công ty Cổ phần Pymepharco	90.3	HSX
+PMG	Công ty Cổ phần Đầu tư và Sản xuất Petro Miền Trung	14.55	HSX
+PNC	Công ty Cổ phần Văn hóa Phương Nam	9.72	HSX
+PNJ	Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận	129.6	HSX
+POM	Công ty Cổ phần Thép Pomina	7.25	HSX
+POW	Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP	14	HSX
+PPC	Công ty Cổ phần Nhiệt điện Phả Lại	17.5	HSX
+PRUBF1	Quỹ Đầu tư Cân bằng Prudential	10.5	HSX
+PSH	Công ty cổ phần Thương mại Đầu tư Dầu khí Nam Sông Hậu	12.2	HSX
+PTB	Công ty Cổ phần Phú Tài	63.5	HSX
+PTC	Công ty Cổ phần Đầu tư ICapital	10.15	HSX
+PTL	Công ty Cổ phần Victory Capital	4.54	HSX
+PVD	Tổng Công ty Cổ phần Khoan và Dịch vụ Khoan Dầu khí	18.1	HSX
+PVF	Tổng Công ty Tài chính Cổ phần Dầu khí Việt Nam	4.2	HSX
+PVT	Tổng công ty Cổ phần Vận tải Dầu khí	20.8	HSX
+PXS	Công ty Cổ phần Kết cấu Kim loại và Lắp máy Dầu khí	4.21	HSX
+QBS	Công ty Cổ phần Xuất nhập khẩu Quảng Bình	3.53	HSX
+QCG	Công ty Cổ phần Quốc Cường Gia Lai	7.77	HSX
+RAL	Công ty Cổ phần Bóng đèn Phích nước Rạng Đông	97.7	HSX
+RDP	Công ty Cổ phần Rạng Đông Holding	7.5	HSX
+REE	Công ty Cổ phần Cơ điện lạnh	85.7	HSX
+ROS	Công ty cổ phần Xây dựng FLC Faros	2.81	HSX
+S4A	Công ty Cổ phần Thủy điện Sê San 4A	36.05	HSX
+SAB	Tổng CTCP Bia - Rượu - Nước giải khát Sài Gòn	155.1	HSX
+SAM	Công ty Cổ phần SAM Holdings	11.85	HSX
+SAV	Công ty Cổ phần Hợp tác kinh tế và Xuất nhập khẩu SAVIMEX	18.75	HSX
+SBA	Công ty Cổ phần Sông Ba	20.7	HSX
+SBC	Công ty Cổ phần Vận tải và Giao nhận bia Sài Gòn	2.01	HSX
+SBT	Công ty cổ phần Thành Thành Công - Biên Hòa	16.5	HSX
+SBV	CTCP Siam Brothers Việt Nam	14.1	HSX
+SC5	Công ty Cổ phần Xây dựng số 5	17.9	HSX
+SCD	Công ty Cổ phần Nước giải khát Chương Dương	18.6	HSX
+SCR	Công ty Cổ phần Địa ốc Sài Gòn Thương Tín	9.48	HSX
+SCS	Công ty cổ phần Dịch vụ Hàng hóa Sài Gòn	163.9	HSX
+SEC	Công ty Cổ phần Mía đường Nhiệt điện Gia Lai	12.4	HSX
+SFC	Công ty Cổ phần Nhiên liệu Sài Gòn	22.5	HSX
+SFG	Công ty Cổ phần Phân bón Miền Nam	13.3	HSX
+SFI	Công ty Cổ phần Đại lý Vận tải SAFI	62	HSX
+SGN	Công ty cổ phần Phục vụ Mặt đất Sài Gòn	67	HSX
+SGR	Công ty cổ phần Tổng Công ty cổ phần Địa ốc Sài Gòn	17.7	HSX
+SGT	Công ty Cổ phần Công nghệ Viễn thông Sài Gòn	26.8	HSX
+SHA	Công ty Cổ phần Sơn Hà Sài Gòn	5.6	HSX
+SHB	Ngân hàng Thương mại cổ phần Sài Gòn - Hà Nội	13.65	HSX
+SHI	Công ty cổ phần Quốc tế Sơn Hà	14.8	HSX
+SHP	Công ty cổ phần Thủy điện Miền Nam	27.75	HSX
+SII	Công ty cổ phần Hạ tầng nước Sài Gòn	14	HSX
+SJD	Công ty Cổ phần Thủy điện Cần Đơn	17.8	HSX
+SJF	CTCP Đầu tư Sao Thái Dương	6.62	HSX
+SJS	Công ty Cổ phần Đầu tư Phát triển Đô thị và Khu Công nghiệp Sông Đà	74.9	HSX
+SKG	Công ty Cổ phần Tàu cao tốc Superdong – Kiên Giang	15.25	HSX
+SMA	Công ty Cổ phần Thiết bị Phụ tùng Sài Gòn	9.03	HSX
+SMB	Công ty Cổ phần Bia Sài Gòn - Miền Trung	41	HSX
+SMC	Công ty Cổ phần Ðầu tư Thương mại SMC	18.35	HSX
+SPM	Công ty Cổ phần S.P.M	18	HSX
+SRC	Công ty Cổ phần Cao Su Sao Vàng	16.8	HSX
+SRF	Công ty Cổ phần SEAREFICO	12.5	HSX
+SSB	Ngân hàng Thương mại cổ phần Đông Nam Á	31.25	HSX
+SSC	Công ty Cổ phần Giống cây trồng Miền Nam	36	HSX
+SSI	Công ty cổ phần Chứng khoán SSI	19.6	HSX
+ST8	Công ty Cổ phần Siêu Thanh	16.9	HSX
+STB	Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín	21.5	HSX
+STG	Công ty Cổ phần Kho vận Miền Nam	29.8	HSX
+STK	Công ty cổ phần Sợi Thế Kỷ	51.7	HSX
+SVC	Công ty Cổ phần Dịch vụ tổng hợp Sài Gòn	102.7	HSX
+SVD	Công ty Cổ phần Đầu tư và Thương mại Vũ Đăng	5.77	HSX
+SVI	Công ty Cổ phần Bao bì Biên Hòa	68.4	HSX
+SVT	Công ty Cổ phần Công nghệ Sài Gòn Viễn Đông	14.9	HSX
+SZC	Công ty cổ phần Sonadezi Châu Đức	46.4	HSX
+SZL	Công ty cổ phần Sonadezi Long Thành	57.4	HSX
+TAC	Công ty Cổ phần Dầu Thực vật Tường An	57	HSX
+TBC	Công ty cổ phần Thủy điện Thác Bà	30	HSX
+TCB	Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank)	35.6	HSX
+TCD	Công ty Cổ phần Đầu tư Phát triển Công nghiệp và Vận tải	10.65	HSX
+TCH	Công ty cổ phần Đầu tư Dịch vụ Tài chính Hoàng Huy	11.4	HSX
+TCL	Công ty Cổ phần Đại lý Giao nhận Vận tải Xếp dỡ Tân Cảng	36.1	HSX
+TCM	Công ty Cổ phần Dệt may - Đầu tư - Thương mại Thành Công	45	HSX
+TCO	Công ty Cổ phần Vận tải Đa phương thức Duyên Hải	9.9	HSX
+TCR	Công ty Cổ phần Công nghiệp Gốm sứ Taicera	4.48	HSX
+TCT	Công ty Cổ phần Cáp treo Núi Bà Tây Ninh	38.2	HSX
+TDC	Công ty Cổ phần Kinh doanh và Phát triển Bình Dương	11.85	HSX
+TDG	Công ty Cổ phần Đầu tư TDG Global	5.45	HSX
+TDH	Công ty Cổ phần Phát triển Nhà Thủ Đức	5.35	HSX
+TDM	Công ty cổ phần Nước Thủ Dầu Một	39.8	HSX
+TDP	Công ty cổ phần Thuận Đức	26.5	HSX
+TDW	Công ty Cổ phần Cấp nước Thủ Đức	43	HSX
+TEG	Công ty cổ phần Năng lượng và Bất động sản Trường Thành	9.45	HSX
+TGG	Công ty Cổ phần Louis Capital	5.89	HSX
+THG	Công ty Cổ phần Đầu tư và Xây dựng Tiền Giang	49.8	HSX
+THI	Công ty Cổ phần Thiết Bị Điện	25.2	HSX
+TIC	Công ty Cổ phần Đầu tư Điện Tây Nguyên	13.95	HSX
+TIP	Công ty cổ phần Phát triển Khu Công nghiệp Tín Nghĩa	25	HSX
+TIX	CTCP Sản xuất Kinh doanh Xuất nhập khẩu Dịch vụ và Đầu tư Tân Bình	30.15	HSX
+TLD	Công ty Cổ phần Đầu tư Xây dựng và Phát triển Đô thị Thăng Long	5.58	HSX
+TLG	Công ty Cổ phần Tập đoàn Thiên Long	49	HSX
+TLH	Công ty Cổ phần Tập đoàn Thép Tiến Lên	9.24	HSX
+TMP	Công ty cổ phần Thủy điện Thác Mơ	55.6	HSX
+TMS	Công ty Cổ phần Transimex	84	HSX
+TMT	Công ty Cổ phần Ô tô TMT	22.9	HSX
+TN1	Công ty Cổ phần Thương mại Dịch vụ TNS Holdings	27.9	HSX
+TNA	Công ty Cổ phần Thương mại Xuất nhập khẩu Thiên Nam	9.27	HSX
+TNC	Công ty Cổ phần Cao su Thống Nhất	41.1	HSX
+TNH	Công ty Cổ phần Bệnh viện Quốc tế Thái Nguyên	42	HSX
+TNI	Công ty cổ phần Tập đoàn Thành Nam	3.77	HSX
+TNT	Công ty Cổ phần Tập đoàn TNT	7.2	HSX
+TPB	Ngân hàng Thương mại cổ phần Tiên Phong	27.35	HSX
+TPC	Công ty Cổ phần Nhựa Tân Đại Hưng	9.57	HSX
+TRA	Công ty Cổ phần TRAPHACO	93.5	HSX
+TRC	Công ty Cổ phần Cao su Tây Ninh	41.95	HSX
+TRI	Công ty Cổ phần Nước giải khát Sài Gòn	1.8	HSX
+TSC	Công ty Cổ phần Vật tư kỹ thuật Nông nghiệp Cần Thơ	6.46	HSX
+TTA	Công ty Cổ phần Đầu tư Xây dựng và Phát triển Trường Thành	11.95	HSX
+TTB	Công ty cổ phần Tập đoàn Tiến Bộ	3.84	HSX
+TTE	Công ty Cổ phần Đầu tư Năng lượng Trường Thịnh	14	HSX
+TTF	Công ty Cổ phần Tập đoàn Kỹ nghệ Gỗ Trường Thành	7.47	HSX
+TV2	Công ty Cổ phần Tư vấn Xây dựng Điện 2	43.35	HSX
+TVB	Công ty cổ phần Chứng khoán Trí Việt	7.4	HSX
+TVS	Công ty Cổ phần Chứng khoán Thiên Việt	30.55	HSX
+TVT	Tổng Công ty Việt Thắng - CTCP	29	HSX
+TYA	Công ty Cổ phần Dây và Cáp điện Taya Việt Nam	16.8	HSX
+UDC	Công ty cổ phần Xây dựng và Phát triển Đô thị tỉnh Bà Rịa-Vũng Tàu	8.71	HSX
+UIC	Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị Idico	42.35	HSX
+VAF	Công ty cổ phần Phân lân nung chảy Văn Điển	11.4	HSX
+VCA	Công ty Cổ phần Thép VICASA - VNSTEEL	15	HSX
+VCB	Ngân hàng Thương mại cổ phần Ngoại thương Việt Nam	75	HSX
+VCF	Công ty Cổ phần VinaCafé Biên Hòa	237.5	HSX
+VCG	Tổng Công ty Cổ phần Xuất nhập khẩu và Xây dựng Việt Nam	20.15	HSX
+VCI	Công ty cổ phần Chứng khoán Bản Việt	35.5	HSX
+VDP	Công ty Cổ phần Dược phẩm Trung ương VIDIPHA	38	HSX
+VDS	Công ty Cổ phần Chứng khoán Rồng Việt	16.55	HSX
+VFG	Công ty Cổ phần Khử trùng Việt Nam	49.95	HSX
+VFMVF1	Quỹ Đầu tư Chứng khoán Việt Nam	16.5	HSX
+VFMVF4	Quỹ đầu tư Doanh nghiệp Hàng đầu Việt Nam	7.9	HSX
+VFMVFA	Quỹ Đầu tư Năng động Việt Nam	7	HSX
+VFMVN30	Quỹ ETF VFMVN30		HSX
+VGC	Tổng Công ty Viglacera - CTCP	53.2	HSX
+VHC	Công ty Cổ phần Vĩnh Hoàn	93.4	HSX
+VHM	Công ty cổ phần Vinhomes	63.9	HSX
+VIB	Ngân hàng Thương mại cổ phần Quốc tế Việt Nam	21.4	HSX
+VIC	Tập đoàn Vingroup - Công ty Cổ phần	73.2	HSX
+VID	Công ty Cổ phần Đầu tư Phát triển Thương mại Viễn Đông	8.9	HSX
+VIP	Công ty Cổ phần Vận tải Xăng dầu VIPCO	6.7	HSX
+VIS	Công ty Cổ phần Thép Việt Ý	18.6	HSX
+VIX	Công ty cổ phần Chứng khoán VIX	9.74	HSX
+VJC	Công ty cổ phần Hàng không VietJet	132.5	HSX
+VMD	Công ty cổ phần Y Dược phẩm Vimedimex	22.3	HSX
+VND	Công ty cổ phần Chứng khoán VNDIRECT	18.45	HSX
+VNE	Tổng công ty Cổ phần Xây dựng điện Việt Nam	11.95	HSX
+VNG	Công ty Cổ phần Du lịch Thành Thành Công	11.25	HSX
+VNL	Công ty cổ phần Logistics Vinalink	19.1	HSX
+VNM	Công ty Cổ phần Sữa Việt Nam	70.6	HSX
+VNS	Công ty Cổ phần Ánh Dương Việt Nam	12.95	HSX
+VOS	Công ty Cổ phần Vận tải biển Việt Nam	17.75	HSX
+VPB	Ngân hàng Thương mại Cổ phần Việt Nam Thịnh Vượng	28.8	HSX
+VPD	Công ty cổ phần Phát triển Điện lực Việt Nam	18.4	HSX
+VPG	Công ty Cổ phần Đầu tư Thương mại Xuất nhập khẩu Việt Phát	29.8	HSX
+VPH	Công ty Cổ phần Vạn Phát Hưng	6.7	HSX
+VPI	Công ty Cổ phần Đầu tư Văn Phú - Invest	62.3	HSX
+VPL	Công ty TNHH Một thành viên Vinpearl	80.5	HSX
+VPS	CTCP Thuốc sát trùng Việt Nam	12.95	HSX
+VRC	Công ty Cổ phần Bất động sản và Đầu tư VRC	10.2	HSX
+VRE	Công ty Cổ phần Vincom Retail	28.7	HSX
+VSC	Công ty cổ phần Tập đoàn Container Việt Nam	44.85	HSX
+VSH	Công ty Cổ phần Thủy điện Vĩnh Sơn - Sông Hinh	43.4	HSX
+VSI	Công ty Cổ phần Đầu tư và Xây dựng Cấp thoát nước	22	HSX
+VTB	Công ty Cổ phần Viettronics Tân Bình	12	HSX
+VTF	Công ty Cổ phần Thức ăn Chăn nuôi Việt Thắng	33	HSX
+VTO	Công ty Cổ phần Vận tải Xăng dầu VITACO	7.9	HSX
+YBM	Công ty Cổ phần Khoáng sản Công nghiệp Yên Bái	8	HSX
+YEG	Công ty Cổ phần Tập đoàn Yeah1	24.4	HSX
+AAV	Công ty Cổ phần AAV Group	9.3	HNX
+ACM	Công ty cổ phần Tập đoàn Khoáng sản Á Cường	1.4	HNX
+ADC	Công ty Cổ phần Mĩ thuật và Truyền thông	20.9	HNX
+AGC	Công ty Cổ phần Cà phê An Giang	0.9	HNX
+ALT	Công ty Cổ phần Văn hóa Tân Bình	26.3	HNX
+AMC	Công ty cổ phần Khoáng sản Á Châu	26.4	HNX
+AME	Công ty Cổ phần Alphanam E&C	10.6	HNX
+AMV	CTCP Sản xuất Kinh doanh Dược và Trang thiết bị Y	8.5	HNX
+API	Công ty Cổ phần Đầu tư Châu Á - Thái Bình Dương	33.7	HNX
+APP	Công ty Cổ phần Phát triển Phụ gia và Sản phẩm Dầu mỏ	8.9	HNX
+APS	Công ty Cổ phần Chứng khoán Châu Á – Thái Bình Dương	14.1	HNX
+ARM	Công ty Cổ phần Xuất nhập khẩu Hàng không	45	HNX
+ART	Công ty Cổ phần Chứng khoán BOS	4.6	HNX
+ATS	Công ty cổ phần Tập đoàn dược phẩm Atesco	17	HNX
+AVS	Công ty Cổ phần Chứng khoán Âu Việt	6.2	HNX
+BAB	Ngân hàng Thương mại cổ phần Bắc Á	17.8	HNX
+BAX	Công ty Cổ phần Thống Nhất	81.3	HNX
+BBS	Công ty cổ phần VICEM Bao bì Bút Sơn	12.5	HNX
+BCC	Công ty Cổ phần Xi măng Bỉm Sơn	14.9	HNX
+BCF	Công ty Cổ phần Thực phẩm Bích Chi	37.1	HNX
+BDB	Công ty Cổ phần Sách và Thiết bị Bình Định	10.5	HNX
+BED	Công ty Cổ phần Sách và Thiết bị trường học Đà Nẵng	39.7	HNX
+BII	Công ty cổ phần Louis Land	4.4	HNX
+BKC	Công ty Cổ phần Khoáng sản Bắc Kạn	7.2	HNX
+BLF	Công ty Cổ phần Thủy sản Bạc Liêu	3.6	HNX
+BNA	Công ty Cổ phần Đầu tư Sản xuất Bảo Ngọc	19.8	HNX
+BPC	Công ty cổ phần Vicem Bao bì Bỉm Sơn	10	HNX
+BSC	Công ty Cổ phần Dịch vụ Bến Thành	14.4	HNX
+BST	Công ty Cổ phần Sách - Thiết bị Bình Thuận	15	HNX
+BTS	Công ty cổ phần Xi măng Vicem Bút Sơn	7.7	HNX
+BTW	Công ty Cổ phần Cấp nước Bến Thành	32	HNX
+BVS	Công ty Cổ phần Chứng khoán Bảo Việt	18.8	HNX
+BXH	Công ty cổ phần VICEM Bao bì Hải Phòng	13.5	HNX
+C69	Công ty Cổ phần Xây dựng 1369	10	HNX
+C92	Công ty Cổ phần Xây dựng và Đầu tư 492	4.5	HNX
+CAG	Công ty Cổ phần Cảng An Giang	10.3	HNX
+CAN	Công ty Cổ phần Đồ hộp Hạ Long	65.8	HNX
+CAP	Công ty Cổ phần Lâm Nông sản Thực phẩm Yên Bái	70	HNX
+CAR	''		HNX
+CCR	Công ty cổ phần Cảng Cam Ranh	18.9	HNX
+CDN	Công ty cổ phần Cảng Đà Nẵng	27.9	HNX
+CEO	Công ty Cổ phần Tập đoàn C.E.O	27.5	HNX
+CET	Công ty cổ phần HTC Holding	6.9	HNX
+CIA	Công ty Cổ phần Dịch vụ Sân bay Quốc tế Cam Ranh	12.5	HNX
+CIC	Công ty Cổ phần Đầu tư và Xây dựng COTEC		HNX
+CJC	Công ty Cổ phần Cơ điện Miền Trung	22	HNX
+CKV	Công ty Cổ phần COKYVINA	20	HNX
+CLH	Công ty cổ phần Xi măng La Hiên VVMI	31.5	HNX
+CLM	CTCP Xuất nhập khẩu Than - Vinacomin	32	HNX
+CMC	Công ty Cổ phần Đầu tư CMC	8.4	HNX
+CMS	Công ty cổ phần Tập đoàn CMH Việt Nam	10.9	HNX
+CPC	Công ty Cổ phần Thuốc sát trùng Cần Thơ	17.9	HNX
+CSC	Công ty Cổ phần Tập đoàn COTANA	56.3	HNX
+CTB	Công ty Cổ phần Chế tạo Bơm Hải Dương	25.9	HNX
+CTC	Công ty Cổ phần Tập đoàn Hoàng Kim Tây Nguyên	4.4	HNX
+CTM	Công ty Cổ phần Đầu tư Xây dựng và Khai thác mỏ Vinavico		HNX
+CTP	Công ty Cổ phần Minh Khang Capital Trading Public	5.8	HNX
+CTT	CTCP Chế tạo máy Vinacomin	15.4	HNX
+CTV	Công ty cổ phần Đầu tư-Sản xuất và Thương mại Việt Nam	3.3	HNX
+CTX	Tổng Công ty Cổ phần Đầu tư Xây dựng và Thương mại Việt Nam	7.3	HNX
+CVN	Công ty cổ phần Vinam	6.3	HNX
+CX8	Công ty cổ phần Đầu tư và Xây lắp Constrexim số 8	10.4	HNX
+D11	Công ty Cổ phần Địa ốc 11	17	HNX
+DAD	Công ty Cổ phần Đầu tư và Phát triển Giáo dục Đà Nẵng	23.1	HNX
+DAE	Công ty Cổ phần Sách Giáo dục tại Tp. Đà Nẵng	24	HNX
+DC2	Công ty Cổ phần Đầu tư Phát triển - Xây dựng số 2	8.8	HNX
+DDG	Công ty cổ phần Đầu tư Công nghiệp Xuất nhập khẩu Đông Dương	39.5	HNX
+DGL	CTCP Hóa chất Đức Giang – Lào Cai	34	HNX
+DHI	Công ty cổ phần In Diên Hồng	5.6	HNX
+DHL	Công ty cổ phần Cơ khí Vận tải Thương mại Đại Hưng		HNX
+DHP	Công ty Cổ phần Điện Cơ Hải Phòng	10.6	HNX
+DHT	Công ty Cổ phần Dược phẩm Hà Tây	40.7	HNX
+DIH	Công ty Cổ phần Đầu tư Phát triển Xây dựng - Hội An	26.9	HNX
+DL1	CTCP Tập đoàn Alpha Seven	5.1	HNX
+DNC	Công ty Cổ phần Điện nước Lắp máy Hải Phòng	61.3	HNX
+DNM	Tổng Công ty cổ phần Y tế Danameco	32.2	HNX
+DNP	Công ty Cổ phần DNP Holding	21.4	HNX
+DP3	Công ty Cổ phần Dược phẩm Trung ương 3	90	HNX
+DPC	Công ty Cổ phần Nhựa Đà Nẵng	18	HNX
+DS3	Công ty Cổ phần Quản lý Đường sông số 3	5.3	HNX
+DST	Công ty Cổ phần Đầu tư Sao Thăng Long	6.9	HNX
+DTC	Công ty Cổ phần Viglacera Đông Triều	5.8	HNX
+DTD	Công ty Cổ phần Đầu tư phát triển Thành Đạt	22.3	HNX
+DTK	Tổng công ty Điện lực TKV - CTCP	12.6	HNX
+DVG	Công ty Cổ phần Tập đoàn Sơn Đại Việt	8.6	HNX
+DXP	Công ty cổ phần Cảng Đoạn Xá	14.5	HNX
+DZM	Công ty Cổ phần Cơ điện Dzĩ An	7.5	HNX
+E1SSHN30	Chứng chỉ quỹ ETF SSIAM-HNX30	9.5	HNX
+EBA	Công ty Cổ phần Điện Bắc Nà	15.1	HNX
+EBS	Công ty Cổ phần Sách Giáo dục tại Tp.Hà Nội	11.1	HNX
+ECI	Công ty Cổ phần Bản đồ và Tranh ảnh Giáo dục	25.6	HNX
+EID	Công ty Cổ phần Đầu tư và Phát triển giáo dục Hà Nội	20.4	HNX
+EVS	Công ty cổ phần Chứng khoán Everest	27.5	HNX
+FDT	Công ty cổ phần Fiditour	38.8	HNX
+FID	Công ty Cổ phần Đầu tư và Phát triển Doanh nghiệp Việt Nam	3.2	HNX
+FTV	Công ty Cổ phần Công nghiệp Ngũ Kim Fortress		HNX
+GBS	Công ty Cổ phần Chứng khoán Golden Bridge Việt Nam	1.1	HNX
+GDW	Công ty Cổ phần Cấp nước Gia Định	31.4	HNX
+GFC	Công ty Cổ phần Thủy sản Gentraco	6.2	HNX
+GHA	Công ty Cổ phần HAPACO Hải Âu	6.5	HNX
+GIC	Công ty Cổ phần Đầu tư dịch vụ và Phát triển Xanh	16.3	HNX
+GKM	Công ty Cổ phần Khang Minh Group	47.8	HNX
+GLT	Công ty cổ phần Kỹ thuật điện Toàn Cầu	33	HNX
+GMA	Công ty Cổ phần Enteco Việt Nam	50	HNX
+GMX	Công ty cổ phần Gạch Ngói Gốm Xây dựng Mỹ Xuân	16.4	HNX
+HAD	Công ty Cổ phần Bia Hà Nội - Hải Dương	14.8	HNX
+HAT	Công ty Cổ phần Thương mại Bia Hà Nội	17.3	HNX
+HBB	Ngân hàng Thương mại Cổ phần Nhà Hà Nội	5.2	HNX
+HBE	Công ty Cổ phần Sách - Thiết bị trường học Hà Tĩnh	7.5	HNX
+HBS	Công ty Cổ phần Chứng khoán Hòa Bình	6.6	HNX
+HCC	Công ty Cổ phần Bê tông Hoà Cầm - Intimex	11	HNX
+HCT	Công ty Cổ phần Thương mại Dịch vụ Vận tải Xi măng Hải Phòng	17	HNX
+HDA	Công ty Cổ phần Hãng sơn Đông Á	11.4	HNX
+HEV	Công ty Cổ phần Sách Đại học - Dạy nghề	45.8	HNX
+HGM	Công ty cổ phần Cơ khí và Khoáng sản Hà Giang	60.5	HNX
+HHC	Công ty Cổ phần Bánh kẹo Hải Hà	98.9	HNX
+HHG	Công ty Cổ phần Hoàng Hà	3	HNX
+HHL	Công ty Cổ phần Hồng Hà Long An	0.9	HNX
+HJS	Công ty Cổ phần Thủy điện Nậm Mu	34	HNX
+HKT	Công ty Cổ phần Đầu tư EGO Việt Nam	4.8	HNX
+HLC	CTCP Than Hà Lầm - Vinacomin	15.1	HNX
+HLD	Công ty Cổ phần Đầu tư và Phát triển Bất động sản HUDLAND	28.4	HNX
+HMH	Công ty Cổ phần Hải Minh	17.4	HNX
+HMR	Công ty Cổ phần Đá Hoàng Mai	10.5	HNX
+HNM	Công ty Cổ phần Sữa Hà Nội		HNX
+HOM	Công ty cổ phần Xi măng VICEM Hoàng Mai	6.9	HNX
+HPC	Công ty Cổ phần Chứng khoán Hải Phòng	2.8	HNX
+HPM	CTCP Xây dựng Thương mại và Khoáng sản Hoàng Phúc	19.7	HNX
+HPR	Công ty Cổ phần Đầu tư Xây dựng Hồng Phát	10.8	HNX
+HPS	Công ty Cổ phần Đá Xây dựng Hoà Phát	7	HNX
+HSC	Công ty Cổ phần Hacinco	179.4	HNX
+HST	Công ty cổ phần Phát hành Sách và Thiết bị Trường học Hưng Yên	6.4	HNX
+HTB	Công ty Cổ phần Xây dựng Huy Thắng		HNX
+HTC	Công ty Cổ phần Thương mại Hóc Môn	24.3	HNX
+HTP	Công ty Cổ phần In sách giáo khoa Hòa Phát	39	HNX
+HUT	Công ty Cổ phần Tasco	27.2	HNX
+HVT	Công ty Cổ phần Hóa chất Việt Trì	51	HNX
+ICG	Công ty Cổ phần Xây dựng Sông Hồng	8.4	HNX
+IDC	Tổng công ty IDICO - Công ty Cổ phần	48.8	HNX
+IDJ	Công ty cổ phần đầu tư IDJ Việt Nam	14	HNX
+IDV	Công ty Cổ phần Phát triển Hạ tầng Vĩnh Phúc	42.5	HNX
+INC	Công ty Cổ phần Tư vấn Đầu tư IDICO	15.2	HNX
+INN	Công ty Cổ phần Bao bì và In Nông nghiệp	48.4	HNX
+IPA	Công ty cổ phần Tập đoàn Đầu tư I.P.A	19.4	HNX
+ITQ	Công ty cổ phần Tập đoàn Thiên Quang	4.5	HNX
+IVS	Công ty cổ phần Chứng khoán Guotai Junan (Việt Nam)	7.4	HNX
+KBT	Công ty Cổ phần Gạch ngói Kiên Giang	6.1	HNX
+KDM	Công ty cổ phần - Tổng Công ty Phát triển khu đô thị Dân cư Mới	13.8	HNX
+KHS	Công ty Cổ phần Kiên Hùng	32.9	HNX
+KKC	Công ty Cổ phần Tập đoàn Thành Thái	18	HNX
+KLF	Công ty Cổ phần Đầu tư Thương mại và Xuất nhập khẩu CFS	3.2	HNX
+KLS	Công ty Cổ phần Chứng khoán Kim Long		HNX
+KMF	Công ty Cổ phần Mirae Fiber	14.7	HNX
+KMT	Công ty cổ phần Kim khí miền Trung	11.1	HNX
+KSD	Công ty cổ phần Đầu tư DNA	7	HNX
+KSF	Công ty Cổ phần Tập đoàn KSFinance	85.5	HNX
+KSQ	Công ty cổ phần CNC Capital Việt Nam	3.3	HNX
+KST	Công ty cổ phần KASATI	13.8	HNX
+KTS	Công ty cổ phần Đường Kon Tum	17.4	HNX
+KTT	Công ty cổ phần Tập đoàn đầu tư KTT	9.4	HNX
+KVC	CTCP Sản xuất Xuất nhập khẩu Inox Kim Vĩ	3.2	HNX
+L14	Công ty cổ phần LICOGI 14	107	HNX
+L18	Công ty Cổ phần Đầu tư và Xây dựng số 18	27.1	HNX
+L35	Công ty Cổ phần Cơ khí Lắp máy Lilama	5	HNX
+L40	Công ty Cổ phần Đầu tư và Xây dựng 40	21.5	HNX
+L43	Công ty Cổ phần Lilama 45.3	4.9	HNX
+L61	Công ty Cổ phần Lilama 69-1	9.2	HNX
+L62	Công ty Cổ phần Lilama 69-2	4	HNX
+LAS	Công ty cổ phần Supe Phốt phát và Hóa chất Lâm Thao	12.5	HNX
+LBE	Công ty Cổ phần Sách và Thiết bị trường học Long An	28.8	HNX
+LCD	Công ty Cổ phần Lắp máy - Thí nghiệm Cơ điện	26.7	HNX
+LCS	Công ty Cổ phần Licogi 166	2.3	HNX
+LDP	Công ty Cổ phần Dược Lâm Đồng - Ladophar	16.1	HNX
+LHC	Công ty Cổ phần Đầu tư và Xây dựng Thủy lợi Lâm Đồng	129.4	HNX
+LIG	Công ty Cổ phần Licogi 13	6	HNX
+LM7	Công ty Cổ phần Lilama 7	3.9	HNX
+LUT	Công ty Cổ phần Đầu tư Xây dựng Lương Tài	4.5	HNX
+MAC	Công ty Cổ phần Cung ứng và Dịch vụ Kỹ thuật Hàng Hải	9.5	HNX
+MAS	Công ty cổ phần Dịch vụ Hàng không Sân bay Đà Nẵng	43.9	HNX
+MAX	Công ty Cổ phần Khai khoáng và Cơ khí Hữu nghị Vĩnh Sinh		HNX
+MBG	Công ty cổ phần Tập đoàn MBG	7	HNX
+MBS	Công ty cổ phần Chứng khoán MB	17.8	HNX
+MCC	Công ty Cổ phần Gạch ngói cao cấp	10.2	HNX
+MCF	CTCP Xây lắp Cơ khí và Lương thực Thực phẩm	9.3	HNX
+MCL	Công ty Cổ phần Phát triển Nhà và Sản xuất Vật liệu xây dựng Chí Linh	1	HNX
+MCO	Công ty Cổ phần Đầu tư và Xây dựng BDC Việt Nam	4.2	HNX
+MDC	Công ty cổ phần Than Mông Dương - Vinacomin	11.5	HNX
+MED	Công ty cổ phần Dược Trung ương Mediplantex	22	HNX
+MEL	Công ty Cổ phần Thép Mê Lin	14	HNX
+MHL	Công ty Cổ phần Minh Hữu Liên	8.2	HNX
+MIH	Công ty Cổ phần Xuất nhập khẩu Khoáng sản Hà Nam	5.4	HNX
+MIM	Công ty Cổ phần Khoáng sản và Cơ khí	9.5	HNX
+MKV	Công ty Cổ phần Dược Thú y Cai Lậy	12.5	HNX
+MNC	Công ty Cổ phần Tập đoàn Mai Linh Miền Trung	5	HNX
+MSC	Công ty cổ phần Dịch vụ Phú Nhuận	15.1	HNX
+MST	Công ty Cổ phần Đầu tư MST	8.6	HNX
+MVB	Tổng công ty Công nghiệp mỏ Việt Bắc TKV - CTCP	18	HNX
+NAG	Công ty cổ phần Tập đoàn Nagakawa	13.5	HNX
+NAP	Công ty cổ phần Cảng Nghệ Tĩnh	13	HNX
+NBC	Công ty cổ phần Than Núi Béo – Vinacomin	14.9	HNX
+NBP	Công ty Cổ phần Nhiệt điện Ninh Bình	17	HNX
+NBW	Công ty Cổ phần Cấp nước Nhà Bè	23.1	HNX
+NDN	Công ty Cổ phần Đầu tư Phát triển Nhà Đà Nẵng	11.2	HNX
+NDX	Công ty Cổ phần Xây lắp Phát triển Nhà Đà Nẵng	7.5	HNX
+NET	Công ty Cổ phần Bột giặt Net	49	HNX
+NFC	Công ty Cổ phần Phân lân Ninh Bình	13.2	HNX
+NHC	Công ty Cổ phần Gạch Ngói Nhị Hiệp	30.1	HNX
+NIS	Công ty Cổ phần Dịch vụ Hạ tầng mạng	9.9	HNX
+NLC	Công ty Cổ phần Thủy điện Nà Lơi		HNX
+NRC	Công ty Cổ phần Tập đoàn Danh Khôi	15.5	HNX
+NSH	Công ty Cổ phần Nhôm Sông Hồng	6.1	HNX
+NSN	Công ty Cổ phần Xây dựng 565		HNX
+NST	Công ty Cổ phần Ngân Sơn	7.5	HNX
+NTH	Công ty Cổ phần thủy điện Nước Trong	41	HNX
+NTP	Công ty Cổ phần Nhựa Thiếu niên Tiền Phong	37.7	HNX
+NVB	Ngân hàng Thương mại cổ phần Quốc Dân	31.4	HNX
+NVC	Công ty Cổ phần Nam Vang	1	HNX
+OCH	Công ty Cổ phần Khách sạn và Dịch vụ OCH	8	HNX
+ONE	Công ty Cổ phần Truyền thông số 1	6.8	HNX
+PBP	Công ty cổ phần Bao bì Dầu khí Việt Nam	10.4	HNX
+PCE	Công ty cổ phần Phân bón và Hóa chất Dầu khí Miền Trung	23.2	HNX
+PCG	Công ty Cổ phần Đầu tư và Phát triển Gas Đô Thị	6.9	HNX
+PCT	Công ty cổ phần Vận tải khí và hóa chất Việt Nam	5.8	HNX
+PDB	Công ty Cổ phần Tập đoàn đầu tư DIN Capital	15.8	HNX
+PDC	Công ty cổ phần Du lịch Dầu khí Phương Đông	6.3	HNX
+PEN	Công ty cổ phần Xây lắp III Petrolimex	9.3	HNX
+PGN	Công ty Cổ phần Phụ gia Nhựa	11.6	HNX
+PGS	Công ty Cổ phần Kinh doanh Khí Miền Nam	24.8	HNX
+PGT	Công ty Cổ phần PGT Holdings	6.1	HNX
+PHN	Công ty Cổ phần Pin Hà Nội	42	HNX
+PHP	Công ty cổ phần Cảng Hải Phòng	17.7	HNX
+PIA	Công ty cổ phần Tin học Viễn thông Petrolimex	29.1	HNX
+PIC	Công ty cổ phần Đầu tư Điện lực 3	12.2	HNX
+PJC	Công ty Cổ phần Thương mại và Vận tải Petrolimex Hà Nội	27.1	HNX
+PLC	Tổng Công ty Hóa dầu Petrolimex-CTCP	24.5	HNX
+PMB	Công ty cổ phần Phân bón và Hóa chất Dầu khí Miền Bắc	14	HNX
+PMC	Công ty Cổ phần Dược phẩm Dược liệu Pharmedic	63	HNX
+PMP	Công ty cổ phần Bao bì Đạm Phú Mỹ	14.7	HNX
+PMS	Công ty Cổ phần Cơ khí Xăng dầu	24	HNX
+POT	Công ty Cổ phần Thiết bị Bưu điện	29.9	HNX
+PPE	Công ty cổ phần Tư vấn Đầu tư PP Enterprise	14.2	HNX
+PPP	Công ty Cổ phần Dược phẩm Phong Phú	14.5	HNX
+PPS	Công ty Cổ phần Dịch vụ Kỹ thuật Điện lực Dầu khí Việt Nam	13	HNX
+PPY	Công ty cổ phần Xăng dầu Dầu khí Phú Yên	10.5	HNX
+PRC	Công ty Cổ phần Logistics Portserco	18.2	HNX
+PRE	Tổng Công ty Cổ phần Tái bảo hiểm PVI	18.4	HNX
+PSC	Công ty cổ phần Vận tải và Dịch vụ Petrolimex Sài Gòn	15	HNX
+PSD	Công ty cổ phần Dịch vụ Phân phối Tổng hợp Dầu khí	22.2	HNX
+PSE	Công ty cổ phần Phân bón và Hóa chất Dầu khí Đông Nam Bộ	19.1	HNX
+PSI	Công ty cổ phần Chứng khoán Dầu khí	7.6	HNX
+PSW	Công ty cổ phần Phân bón và Hóa chất Dầu khí Tây Nam Bộ	14.9	HNX
+PTD	CTCP Thiết kế - Xây dựng - Thương mại Phúc Thịnh	14.3	HNX
+PTI	Tổng Công ty Cổ phần Bảo hiểm Bưu điện	71	HNX
+PTS	Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Hải Phòng	12.6	HNX
+PV2	Công ty cổ phần Đầu tư PV2	3.5	HNX
+PVB	Công ty cổ phần Bọc ống Dầu khí Việt Nam	15.5	HNX
+PVC	Tổng Công ty Hóa chất và Dịch vụ Dầu khí - CTCP	17.9	HNX
+PVG	Công ty Cổ phần Kinh doanh LPG Việt Nam	10.2	HNX
+PVI	Công ty Cổ phần PVI	48.8	HNX
+PVL	Công ty cổ phần Đầu tư Nhà đất Việt	5.5	HNX
+PVS	Tổng Công ty Cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam	25.8	HNX
+QHD	Công ty Cổ phần Que hàn điện Việt Đức	52	HNX
+QST	Công ty Cổ phần Sách và Thiết bị trường học Quảng Ninh	17.2	HNX
+QTC	Công ty Cổ phần Công trình Giao thông Vận tải Quảng Nam	13.5	HNX
+RCL	Công ty Cổ phần Địa ốc Chợ Lớn	16.1	HNX
+RHC	Công ty Cổ phần Thủy điện Ry Ninh II	19.8	HNX
+S55	Công ty Cổ phần Sông Đà 505	59.5	HNX
+S64	Công ty Cổ phần Sông Đà 6.04	6.3	HNX
+S91	Công ty Cổ phần Sông Đà 9.01	12.8	HNX
+S99	Công ty Cổ phần SCI	9.6	HNX
+SAF	Công ty Cổ phần Lương thực Thực phẩm Safoco	64.6	HNX
+SCG	Công ty cổ phần Xây dựng SCG	69.5	HNX
+SCI	Công ty Cổ phần SCI E&C	10.9	HNX
+SD2	Công ty Cổ phần Sông Đà 2	7	HNX
+SD4	Công ty Cổ phần Sông Đà 4	4	HNX
+SD5	Công ty Cổ phần Sông Đà 5	9	HNX
+SD6	Công ty Cổ phần Sông Đà 6	4.2	HNX
+SD9	Công ty Cổ phần Sông Đà 9	8.2	HNX
+SDA	Công ty Cổ phần Simco Sông Đà	15	HNX
+SDC	Công ty Cổ phần Tư vấn Sông Đà	9	HNX
+SDG	Công ty Cổ phần Sadico Cần Thơ	24.4	HNX
+SDN	Công ty Cổ phần Sơn Đồng Nai	52.8	HNX
+SDS	Công ty Cổ phần Xây lắp và Đầu tư Sông Đà	4.1	HNX
+SDT	Công ty Cổ phần Sông Đà 10	4.5	HNX
+SDU	Công ty Cổ phần Đầu tư Xây dựng và Phát triển Đô thị Sông Đà	24.4	HNX
+SEB	Công ty Cổ phần Đầu tư và Phát triển Điện miền Trung	45	HNX
+SED	Công ty Cổ phần Đầu tư và Phát triển giáo dục Phương Nam	20.6	HNX
+SEL	Công ty Cổ phần Sông Đà 11 Thăng Long	12.2	HNX
+SFN	Công ty Cổ phần Dệt lưới Sài Gòn	27.4	HNX
+SGC	Công ty Cổ phần Xuất nhập khẩu Sa Giang	82.5	HNX
+SGD	Công ty cổ phần Sách Giáo dục tại T.P Hồ Chí Minh	15.4	HNX
+SGH	Công ty Cổ phần Khách sạn Sài Gòn	31	HNX
+SHE	Công ty Cổ phần Phát triển năng lượng Sơn Hà	11.2	HNX
+SHN	Công ty Cổ phần Đầu tư Tổng hợp Hà Nội	7.2	HNX
+SHS	Công ty Cổ phần Chứng Khoán Sài Gòn Hà Nội	14.8	HNX
+SHT	Công ty Cổ phần Tập đoàn Sông Hồng Thủ Đô		HNX
+SIC	Công ty cổ phần ANI	22	HNX
+SJ1	Công ty cổ phần Nông nghiệp Hùng Hậu	14	HNX
+SJE	Công ty Cổ phần Sông Đà 11	27.5	HNX
+SKS	Công ty cổ phần Công trình Giao thông Sông Đà	9.8	HNX
+SLS	Công ty cổ phần Mía đường Sơn La	130	HNX
+SME	Công ty Cổ phần Chứng khoán SME	0.3	HNX
+SMN	Công ty Cổ phần Sách và Thiết bị Giáo dục Miền Nam	14	HNX
+SMT	Công ty cổ phần SAMETEL	12.3	HNX
+SNG	Công ty TNHH MTV Sông Đà 10.1	20.8	HNX
+SPC	Công ty Cổ phần Bảo vệ Thực vật Sài Gòn	17.1	HNX
+SPI	Công ty cổ phần Spiral Galaxy	4.2	HNX
+SRA	Công ty Cổ phần Sara Việt Nam	6.7	HNX
+SSM	Công ty Cổ phần Chế tạo Kết cấu Thép VNECO.SSM	5.2	HNX
+SSS	Công ty Cổ phần Sông Đà 6.06	4	HNX
+STC	Công ty Cổ phần Sách và Thiết bị trường học Tp. Hồ Chí Minh	22	HNX
+STP	Công ty Cổ phần Công nghiệp Thương mại Sông Đà	8.3	HNX
+SVN	Công ty cổ phần Tập đoàn Vexilla Việt Nam	6	HNX
+SVS	Công ty Cổ phần Chứng khoán Sao Việt	3.6	HNX
+SZB	Công ty cổ phần Sonadezi Long Bình	38.8	HNX
+TA9	Công ty Cổ phần Xây lắp Thành An 96	14.5	HNX
+TAR	Công ty Cổ phần Nông nghiệp Công nghệ cao Trung An	26.2	HNX
+TAS	Công ty Cổ phần Chứng khoán Tràng An		HNX
+TBX	Công ty Cổ phần Xi măng Thái Bình	22.3	HNX
+TC6	Công ty cổ phần Than Cọc Sáu - Vinacomin	9	HNX
+TDN	Công ty Cổ phần Than Đèo Nai - Vinacomin	12.6	HNX
+TDT	Công ty cổ phần Đầu tư và Phát triển TDT	9.8	HNX
+TET	Công ty Cổ phần Vải sợi May mặc Miền Bắc	31.2	HNX
+TFC	Công ty Cổ phần Trang	8	HNX
+THB	Công ty cổ phần Bia Hà Nội - Thanh Hóa	14	HNX
+THD	Công ty Cổ phần Thaiholdings	57.3	HNX
+THS	Công ty cổ phần Thanh Hoa - Sông Đà	18.4	HNX
+THT	Công ty cổ phần Than Hà Tu - Vinacomin	11.9	HNX
+THV	Công ty Cổ phần Tập đoàn Thái Hòa Việt Nam	0.4	HNX
+TIG	Công ty Cổ phần Tập đoàn Đầu tư Thăng Long	12.6	HNX
+TJC	Công ty cổ phần Dịch vụ Vận tải và Thương mại	16.3	HNX
+TKC	Công ty Cổ phần Xây dựng và Kinh doanh Địa ốc Tân Kỷ	7.3	HNX
+TKU	Công ty Cổ phần Công nghiệp Tung Kuang	21	HNX
+TLC	Công ty Cổ phần Viễn thông Thăng Long	1.2	HNX
+TMB	Công ty Cổ phần Kinh doanh than Miền Bắc - Vinacomin	19.4	HNX
+TMC	Công ty Cổ phần Thương mại - Xuất nhập khẩu Thủ Đức	15.5	HNX
+TMX	Công ty cổ phần VICEM Thương mại Xi măng	10.3	HNX
+TNG	Công ty Cổ phần Đầu tư và Thương mại TNG	31.9	HNX
+TOT	Công ty Cổ phần Transimex Logistics	12.2	HNX
+TPH	Công ty Cổ phần In Sách giáo khoa tại T.P Hà Nội	13.5	HNX
+TPP	Công ty Cổ phần Tân Phú Việt Nam	11.4	HNX
+TSB	Công ty Cổ phần Ắc quy Tia sáng	10	HNX
+TSM	Công ty Cổ phần Xi măng Tiên Sơn Hà Tây		HNX
+TST	Công ty Cổ phần Dịch vụ Kỹ thuật Viễn thông	7.4	HNX
+TTC	Công ty Cổ phần Gạch men Thanh Thanh	11.8	HNX
+TTH	Công ty cổ phần Thương mại và Dịch vụ Tiến Thành	3.2	HNX
+TTL	Tổng Công ty Thăng Long - CTCP	14.9	HNX
+TTT	Công ty Cổ phần Du lịch – Thương mại Tây Ninh	41.9	HNX
+TTZ	Công ty cổ phần Đầu tư Xây dựng và Công nghệ Tiến Trung	2.9	HNX
+TV3	Công ty Cổ phần Tư vấn Xây dựng Điện 3	23.8	HNX
+TV4	Công ty Cổ phần Tư vấn Xây dựng Điện 4	18.8	HNX
+TVC	Công ty cổ phần Tập đoàn Quản lý Tài sản Trí Việt	8.3	HNX
+TVD	Công ty cổ phần Than Vàng Danh - Vinacomin	14.5	HNX
+TXM	Công ty cổ phần VICEM Thạch cao Xi măng	5	HNX
+UNI	Công ty Cổ phần Đầu tư và phát triển Sao Mai Việt	16	HNX
+V12	Công ty Cổ phần Xây dựng số 12	15.5	HNX
+V21	Công ty Cổ phần VINACONEX 21	6.8	HNX
+VBC	Công ty Cổ phần Nhựa Bao bì Vinh	34.5	HNX
+VC1	Công ty Cổ phần Xây dựng số 1	10.8	HNX
+VC2	Công ty Cổ phần Đầu tư và Xây dựng Vina2	21.9	HNX
+VC3	Công ty Cổ phần Tập đoàn Nam Mê Kông	45	HNX
+VC6	Công ty Cổ phần Xây dựng và Đầu tư Visicons	11.8	HNX
+VC7	Công ty Cổ phần Tập đoàn BGI	9.8	HNX
+VC9	Công ty Cổ phần Xây dựng số 9 - VC9	10.6	HNX
+VCC	Công ty Cổ phần Vinaconex 25	14.9	HNX
+VCH	Công ty Cổ phần Đầu tư và Phát triển Hạ tầng Vinaconex	0.9	HNX
+VCM	Công ty Cổ phần Nhân lực và Thương mại Vinaconex	13.7	HNX
+VCS	Công ty cổ phần VICOSTONE	75.2	HNX
+VCV	Công ty Cổ phần Vận tải Vinaconex	1.2	HNX
+VDL	Công ty Cổ phần Thực phẩm Lâm Đồng	20	HNX
+VE1	Công ty Cổ phần Xây dựng điện VNECO 1	4	HNX
+VE2	Công ty cổ phần Xây dựng điện VNECO 2	8.3	HNX
+VE3	Công ty cổ phần Xây dựng điện VNECO 3	11.6	HNX
+VE4	Công ty Cổ phần Xây dựng điện VNECO4	81	HNX
+VE8	Công ty cổ phần Xây dựng điện VNECO 8	7.5	HNX
+VGP	Công ty Cổ phần Cảng Rau quả	25	HNX
+VGS	Công ty Cổ phần Ống thép Việt Đức VG PIPE	17.7	HNX
+VHE	Công ty Cổ phần Dược liệu và Thực phẩm Việt Nam	4.9	HNX
+VHL	Công ty Cổ phần Viglacera Hạ Long	25	HNX
+VIE	Công ty Cổ phần Công nghệ Viễn thông VITECO	9.1	HNX
+VIF	Tổng Công ty Lâm nghiệp Việt Nam - CTCP	17.4	HNX
+VIG	Công ty Cổ phần Chứng khoán Đầu tư Việt Nam	6.5	HNX
+VIT	Công ty Cổ phần Viglacera Tiên Sơn	20.4	HNX
+VKC	Công ty cổ phần VKCHoldings	4.9	HNX
+VLA	Công ty Cổ phần Đầu tư và Phát triển Công nghệ Văn Lang	62	HNX
+VMC	Công ty Cổ phần Vimeco	13	HNX
+VMS	CTCP Phát triển Hàng hải	11.7	HNX
+VNC	Công ty Cổ phần Tập đoàn Vinacontrol	41.1	HNX
+VNF	Công ty cổ phần Vinafreight	17.5	HNX
+VNR	Tổng Công ty Cổ phần Tái bảo hiểm quốc gia Việt Nam	24.2	HNX
+VNT	Công ty cổ phần Giao nhận Vận tải Ngoại thương	82	HNX
+VSA	Công ty cổ phần Đại lý Hàng hải Việt Nam	29.8	HNX
+VSM	Công ty Cổ phần Container Miền Trung	25.9	HNX
+VTC	Công ty Cổ phần Viễn thông VTC	13.5	HNX
+VTH	Công ty Cổ phần Tập đoàn Việt Thái	11	HNX
+VTJ	Công ty cổ phần Thương mại và Đầu tư Vinataba	4.1	HNX
+VTL	Công ty Cổ phần Vang Thăng Long	10.7	HNX
+VTV	Công ty Cổ phần Năng lượng và Môi trường VICEM	5	HNX
+VTZ	Công ty Cổ phần Sản xuất và Thương mại Nhựa Việt Thành	8.5	HNX
+VXB	Công ty Cổ phần Vật liệu xây dựng Bến Tre	16.7	HNX
+WCS	Công ty Cổ phần Bến xe Miền Tây	168	HNX
+WSS	Công ty Cổ phần Chứng khoán Phố Wall	7.9	HNX
+X20	Công ty Cổ phần X20	8.5	HNX
+YSC	Công ty Cổ phần Hapaco Yên Sơn	6.3	HNX
+A32	Công ty cổ phần 32	31	Upcom
+AAS	Công ty Cổ phần Chứng Khoán Smart Invest	18.7	Upcom
+ABB	Ngân hàng Thương mại cổ phần An Bình	10.5	Upcom
+ABC	Công ty cổ phần Truyền thông VMG	8.5	Upcom
+ABI	Công ty Cổ phần Bảo hiểm Ngân hàng Nông nghiệp	49	Upcom
+AC4	Công ty Cổ phần ACC - 244	4.2	Upcom
+ACE	Công ty Cổ phần Bê tông ly tâm An Giang	40	Upcom
+ACG	Công ty Cổ phần Gỗ An Cường	66	Upcom
+ACS	Công ty Cổ phần Xây lắp Thương mại 2	13.5	Upcom
+ACV	Tổng công ty Cảng hàng không Việt Nam - CTCP	79.9	Upcom
+ADP	Công ty Cổ phần Sơn Á Đông	23.1	Upcom
+AFC	Công ty Cổ phần Nông Lâm Nghiệp Bình Dương	10	Upcom
+AFX	Công ty Cổ phần Xuất nhập khẩu Nông sản Thực phẩm An Giang	14.9	Upcom
+AG1	Công ty Cổ phần 28.1	7.5	Upcom
+AGF	Công ty Cổ phần Xuất nhập khẩu Thủy sản An Giang	3.1	Upcom
+AGP	Công ty cổ phần Dược phẩm Agimexpharm	20	Upcom
+AGX	Công ty cổ phần Thực phẩm Nông sản Xuất khẩu Sài Gòn	37.6	Upcom
+AIC	Công ty cổ phần Bảo hiểm Hàng không	10.9	Upcom
+ALV	Công ty Cổ phần Xây dựng ALVICO	6.7	Upcom
+AMP	Công ty Cổ phần Armephaco	15.3	Upcom
+AMS	Công ty Cổ phần Cơ khí xây dựng AMECC	8.8	Upcom
+ANT	CTCP Rau quả Thực phẩm An Giang	13.5	Upcom
+APF	Công ty Cổ phần Nông sản thực phẩm Quảng Ngãi	73	Upcom
+APL	CTCP Cơ khí và Thiết bị áp lực - VVMI	24.8	Upcom
+APT	CTCP Kinh doanh Thủy Hải Sản Sài Gòn	3	Upcom
+AQN	Công ty cổ phần 28 Quảng Ngãi	9.5	Upcom
+ASA	Công ty cổ phần Tập đoàn ASA	12.6	Upcom
+ASD	Công ty Cổ phần Sông Đà Hà Nội	8	Upcom
+ATA	Công ty Cổ phần NTACO	2.6	Upcom
+ATB	Công ty Cổ phần An Thịnh	1.3	Upcom
+ATD	Công ty cổ phần 28 Đà Nẵng	9.6	Upcom
+ATG	Công ty Cổ phần An Trường An	2.9	Upcom
+AUM	CTCP Vinacafe Sơn Thành	10.5	Upcom
+AVC	Công ty cổ phần Thuỷ điện A Vương	37	Upcom
+AVF	Công ty Cổ phần Việt An	0.9	Upcom
+B82	Công ty Cổ phần 482	1.1	Upcom
+BAL	Công ty cổ phần Bao bì Bia – Rượu – Nước giải khát	13.3	Upcom
+BAM	CTCP Khoáng sản và Luyện kim Bắc Á	1.8	Upcom
+BBH	CTCP Bao bì Hoàng Thạch	16.4	Upcom
+BBM	Công ty Cổ phần Bia Hà Nội - Nam Định	9.5	Upcom
+BBT	Công ty Cổ phần Bông Bạch Tuyết	12.7	Upcom
+BCA	Công ty cổ phần B.C.H	9	Upcom
+BCB	Công ty cổ phần 397	0.4	Upcom
+BCP	Công ty cổ phần Dược Becamex	9.4	Upcom
+BCV	CTCP Du lịch và Thương mại Bằng Giang Cao Bằng - Vimico	21.5	Upcom
+BDC	Tổng Công ty Xây dựng Bạch Đằng - CTCP	7.8	Upcom
+BDF	Công ty cổ phần Giày Bình Định	16	Upcom
+BDG	CTCP May mặc Bình Dương	55	Upcom
+BDT	Công ty Cổ phần Xây lắp và Vật liệu Xây dựng Đồng Tháp	38.4	Upcom
+BDW	Công ty cổ phần Cấp thoát nước Bình Định	22.7	Upcom
+BEL	CTCP Điện tử Biên Hòa	13	Upcom
+BGW	Công ty Cổ phần Nước sạch Bắc Giang	17.5	Upcom
+BHA	Công ty Cổ phần Thủy điện Bắc Hà	12.2	Upcom
+BHC	Công ty Cổ phần Bê tông Biên Hòa	3	Upcom
+BHG	Công ty cổ phần Chè Biển Hồ	13.5	Upcom
+BHK	Công ty Cổ phần Bia Hà Nội - Kim Bài	12.1	Upcom
+BHP	Công ty Cổ phần Bia Hà Nội - Hải Phòng	9.8	Upcom
+BHT	Công ty Cổ phần Đầu tư Xây dựng Bạch Đằng TMC	10.9	Upcom
+BHV	Công ty Cổ phần Viglacera Bá Hiến	3	Upcom
+BIG	CTCP Big Invest Group	17.8	Upcom
+BIO	Công ty cổ phần Vắc xin và Sinh phẩm Nha Trang	30.2	Upcom
+BKH	Công ty cổ phần Bánh Mứt Kẹo Hà Nội	30.3	Upcom
+BLI	Tổng Công ty cổ phần Bảo hiểm Bảo Long	17.9	Upcom
+BLN	CTCP Vận tải và Dịch vụ Liên Ninh	7.7	Upcom
+BLT	Công ty Cổ phần Lương thực Bình Định	23.3	Upcom
+BLU	Trung tâm Dịch vụ Đô thị tỉnh Bạc Liêu	10	Upcom
+BLW	Công ty cổ phần Cấp nước Bạc Liêu	17.1	Upcom
+BM9	CTCP Đầu tư Xây dựng 319 Miền Nam	10.2	Upcom
+BMD	Công ty Cổ phần Môi trường và Dịch vụ đô thị Bình Thuận	6.4	Upcom
+BMF	Công ty cổ phần Vật liệu Xây dựng và Chất đốt Đồng Nai	27.3	Upcom
+BMG	Công ty cổ phần May Bình Minh	14.7	Upcom
+BMJ	Công ty Cổ phần Khoáng sản Miền Đông AHP	17.5	Upcom
+BMN	Công ty Cổ phần 715	9.7	Upcom
+BMS	Công ty Cổ phần Chứng khoán Bảo Minh	9.9	Upcom
+BMV	Công ty Cổ phần Bột mỳ Vinafood 1	15	Upcom
+BNW	Công ty cổ phần Nước sạch Bắc Ninh	8.7	Upcom
+BOT	Công ty cổ phần BOT Cầu Thái Hà	6.1	Upcom
+BPW	Công ty Cổ phần Cấp thoát nước Bình Phước	19	Upcom
+BQB	Công ty Cổ phần Bia Hà Nội - Quảng Bình	4.5	Upcom
+BRR	Công ty Cổ phần Cao su Bà Rịa	19.7	Upcom
+BRS	Công ty Cổ phần Dịch vụ đô thị Bà Rịa	31	Upcom
+BSA	Công ty cổ phần Thủy điện Buôn Đôn	16.8	Upcom
+BSD	Công ty Cổ phần Bia, Rượu Sài Gòn - Đồng Xuân	34	Upcom
+BSG	Công ty Cổ phần Xe khách Sài Gòn	12.4	Upcom
+BSH	Công ty cổ phần Bia Sài Gòn - Hà Nội	24.5	Upcom
+BSL	Công ty Cổ phần Bia Sài Gòn - Sông Lam	11.3	Upcom
+BSP	Công ty cổ phần Bia Sài Gòn - Phú Thọ	15.8	Upcom
+BSQ	Công ty cổ phần Bia Sài Gòn - Quảng Ngãi	29.5	Upcom
+BSR	Công ty Cổ phần Lọc Hóa dầu Bình Sơn	30	Upcom
+BT1	Công ty cổ phần Bảo vệ Thực vật 1 Trung ương	20	Upcom
+BT6	Công ty Cổ phần Beton 6	4.4	Upcom
+BTB	Công ty Cổ phần Bia Hà Nội - Thái Bình	6.9	Upcom
+BTC	Công ty Cổ phần Cơ khí và Xây dựng Bình Triệu	58	Upcom
+BTD	Công ty Cổ phần Bê tông Ly tâm Thủ Đức	29.6	Upcom
+BTG	Công ty Cổ phần Bao bì Tiền Giang	8.2	Upcom
+BTH	Công ty Cổ phần Chế tạo Biến thế và Vật liệu điện Hà Nội	8.3	Upcom
+BTN	Công ty Cổ phần Gạch Tuy Nen Bình Định	3.3	Upcom
+BTR	CTCP Đường sắt Bình Trị Thiên	9.8	Upcom
+BTU	CTCP Công trình Đô thị Bến Tre	13	Upcom
+BTV	Công ty Cổ phần Dịch vụ Du lịch Bến Thành	14.9	Upcom
+BUD	CTCP Khoa học Công nghệ Việt Nam	13.9	Upcom
+BVB	Ngân hàng Thương mại cổ phần Bản Việt	13.2	Upcom
+BVG	Công ty Cổ phần Đầu tư BVG	3.1	Upcom
+BVL	Công ty cổ phần BV Land	35.5	Upcom
+BVN	Công ty cổ phần Bông Việt Nam	11.8	Upcom
+BWA	Công ty Cổ phần Cấp thoát nước và Xây dựng Bảo Lộc	12	Upcom
+BWS	Công ty cổ phần Cấp nước Bà Rịa - Vũng Tàu	33	Upcom
+BXD	Công ty Cổ phần Vận tải và Quản lý Bến xe Đà Nẵng	8.5	Upcom
+BXT	Ban Quản lý và Điều hành Bến xe tàu	10.6	Upcom
+C12	Công ty Cổ phần Cầu 12	4.2	Upcom
+C21	Công ty cổ phần Thế kỷ 21	14.1	Upcom
+C22	Công ty Cổ phần 22	16	Upcom
+C36	Công ty Cổ phần Quản lý và Xây dựng công trình giao thông 236	8.8	Upcom
+C4G	Công ty cổ phần Tập đoàn CIENCO4	10.5	Upcom
+C71	Công ty Cổ phần 471	6.6	Upcom
+CAB	CTCP Tổng Công ty Truyền hình Cáp Việt Nam	16.5	Upcom
+CAD	Công ty Cổ phần Chế biến và Xuất nhập khẩu Thủy sản CADOVIMEX	1.7	Upcom
+CAM	Công ty TNHH MTV Môi trường đô thị Cà Mau	15.7	Upcom
+CAT	Công ty Cổ phần Thủy sản Cà Mau	21.7	Upcom
+CBC	Công ty cổ phần Chè Bàu Cạn	9.7	Upcom
+CBI	Công ty Cổ phần Gang thép Cao Bằng	12.5	Upcom
+CBS	Công ty Cổ phần Mía đường Cao Bằng	45	Upcom
+CC1	Tổng Công ty Xây dựng số 1 - CTCP	15	Upcom
+CC4	Công ty Cổ phần Đầu tư và Xây dựng số 4	19.5	Upcom
+CCA	CTCP Xuất nhập khẩu Thủy sản Cần Thơ	20	Upcom
+CCH	Công ty Cổ phần Tư vấn và Đầu tư xây dựng CCIC Hà Nội	3.9	Upcom
+CCM	Công ty Cổ phần Khoáng sản & Xi măng Cần Thơ	54.8	Upcom
+CCP	Công ty cổ phần Cảng Cửa Cấm Hải Phòng	12	Upcom
+CCT	Công ty Cổ phần Cảng Cần Thơ	13	Upcom
+CCV	Công ty cổ phần Tư vấn Xây dựng Công nghiệp và Đô thị Việt Nam	42.4	Upcom
+CDG	Công ty Cổ phần Cầu Đuống	2.4	Upcom
+CDH	CTCP Công trình công cộng Dịch vụ Du lịch Hải Phòng	2.6	Upcom
+CDO	Công ty Cổ phần Tư vấn thiết kế và Phát triển đô thị	3	Upcom
+CDP	Công ty cổ phần Dược phẩm Trung ương Codupha	11.1	Upcom
+CDR	Công ty Cổ phần Xây dựng Cao su Đồng Nai	7.8	Upcom
+CE1	Công ty Cổ phần Xây dựng và Thiết bị Công nghiệp CIE1	9	Upcom
+CEC	Công ty Cổ phần Thiết kế Công nghiệp Hóa chất	15	Upcom
+CEG	Công ty Cổ phần Tập đoàn Xây dựng và Thiết bị Công nghiệp	7.7	Upcom
+CEN	Công ty Cổ phần CENCON Việt Nam	11	Upcom
+CER	Công ty Cổ phần Địa chính và Tài nguyên Môi trường	10.7	Upcom
+CFC	Công ty Cổ phần Cafico Việt Nam	9.1	Upcom
+CFM	CTCP Đầu tư CFM	9.6	Upcom
+CFV	Công ty TNHH Một thành viên Cà phê Thắng Lợi	21.3	Upcom
+CGL	CTCP Thương mại Gia Lai	32	Upcom
+CGP	Công ty cổ phần Dược phẩm Cần Giờ	8	Upcom
+CGV	Công ty Cổ phần Sành sứ Thủy tinh Việt Nam	3.6	Upcom
+CH5	Công ty Cổ phần Xây dựng Số 5 Hà Nội	11.1	Upcom
+CHC	Công ty Cổ phần Cẩm Hà	2.1	Upcom
+CHS	Công ty Cổ phần Chiếu sáng Công cộng Thành phố Hồ Chí Minh	9.5	Upcom
+CI5	Công ty cổ phần Đầu tư Xây dựng số 5	14.4	Upcom
+CID	Công ty Cổ phần Xây dựng và Phát triển Cơ sở Hạ tầng	7.3	Upcom
+CIP	Công ty Cổ phần Xây lắp và Sản xuất Công nghiệp	3.9	Upcom
+CK8	Công ty Cổ phần Cơ khí 120		Upcom
+CKA	Công ty cổ phần Cơ khí An Giang	38	Upcom
+CKD	Công ty cổ phần Cơ khí Đông Anh Licogi	31.5	Upcom
+CKH	Công ty Cổ phần Cơ khí chế tạo Hải Phòng	4.2	Upcom
+CLG	Công ty Cổ phần Đầu tư và Phát triển Nhà đất COTEC	1.2	Upcom
+CLS	Công ty Cổ phần Chứng Khoán Chợ Lớn	5	Upcom
+CLX	Công ty Cổ phần Xuất nhập khẩu và Đầu tư Chợ Lớn (Cholimex)	17.7	Upcom
+CMD	CTCP Vật liệu Xây dựng và Trang trí Nội thất Thành phố Hồ Chí Minh	21.5	Upcom
+CMF	Công ty Cổ phần Thực phẩm Cholimex	159.7	Upcom
+CMI	Công ty cổ phần CMISTONE Việt Nam	2.4	Upcom
+CMK	Công ty cổ phần Cơ khí Mạo khê - Vinacomin	6.8	Upcom
+CMN	Công ty Cổ phần Lương thực Thực phẩm Colusa-Miliket	40.4	Upcom
+CMP	CTCP Cảng Chân Mây	8.1	Upcom
+CMT	Công ty Cổ phần Công nghệ Mạng và Truyền thông	17.2	Upcom
+CMW	Công ty Cổ phần Cấp nước Cà Mau	15.3	Upcom
+CNA	Công ty TNHH MTV Đầu tư phát triển Chè Nghệ An	43.9	Upcom
+CNC	Công ty cổ phần Công nghệ cao Traphaco	27.6	Upcom
+CNH	Công ty Cổ phần Cảng Nha Trang	5.1	Upcom
+CNN	CTCP Tư vấn công nghệ, thiết bị và kiểm định xây dựng - CONINCO	23.5	Upcom
+CNT	Công ty Cổ phần Tập đoàn CNT	11.5	Upcom
+CPA	CTCP Cà phê Phước An	11.5	Upcom
+CPH	Công ty Cổ phần Mai táng Hải Phòng	0.3	Upcom
+CPI	Công ty Cổ phần Đầu tư Cảng Cái Lân	4.3	Upcom
+CPW	CTCP Công trình Giao thông Công chánh	2.3	Upcom
+CQN	Công ty cổ phần Cảng Quảng Ninh	23.5	Upcom
+CQT	Công ty cổ phần Xi măng Quán Triều VVMI	12	Upcom
+CSI	Công ty cổ phần Chứng khoán Kiến thiết Việt Nam	62	Upcom
+CST	Công ty Cổ phần Than Cao Sơn - TKV	14.9	Upcom
+CT3	Công ty Cổ phần Đầu tư và Xây dựng Công trình 3	9	Upcom
+CT5	Công ty cổ phần 319.5	9.9	Upcom
+CT6	Công ty Cổ phần Công trình 6	6.9	Upcom
+CTA	Công ty Cổ phần Vinavico	1.8	Upcom
+CTN	Công ty Cổ phần Xây dựng Công trình ngầm	2.2	Upcom
+CTW	CTCP Cấp thoát nước Cần Thơ	20	Upcom
+CVC	Công ty Cổ Phần Cơ điện Vật tư	4.4	Upcom
+CVH	Công ty Cổ phần Công viên, Cây xanh Hải Phòng	10.1	Upcom
+CVP	Công ty cổ phần Cảng Cửa Việt	10	Upcom
+CXH	CTCP Xe khách Hà Nội	7	Upcom
+CYC	Công ty Cổ phần Gạch men Chang Yih	5.9	Upcom
+CZC	Công ty cổ phần Than miền Trung	7	Upcom
+D26	Công ty Cổ phần Quản lý và Xây dựng Đường bộ 26	10.5	Upcom
+DAC	Công ty Cổ phần Viglacera Đông Anh	8.5	Upcom
+DAN	CTCP Dược Danapha	36.7	Upcom
+DAP	Công ty Cổ phần Đông Á	35.6	Upcom
+DAR	Công ty Cổ phần Xe lửa Dĩ An	7	Upcom
+DAS	Công ty Cổ phần Máy - Thiết bị Dầu khí Đà Nẵng	14.1	Upcom
+DBH	CTCP Đường bộ Hải Phòng	7.8	Upcom
+DBM	Công ty Cổ phần Dược - Vật tư Y tế Đăk Lăk	35.6	Upcom
+DBW	Công ty Cổ phần Cấp nước Điện Biên	10	Upcom
+DC1	Công ty cổ phần Đầu tư Phát triển Xây dựng số 1	10.2	Upcom
+DCD	CTCP Du lịch và Thương mại DIC	12	Upcom
+DCF	Công ty Cổ phần Xây dựng và Thiết kế số 1	54.9	Upcom
+DCG	Công ty cổ phần Tổng công ty May Đáp Cầu	16.6	Upcom
+DCH	Công ty Cổ phần Địa chính Hà Nội	5.9	Upcom
+DCI	Công ty Cổ phần Công nghiệp Hóa chất Đà Nẵng	1.3	Upcom
+DCR	Công ty cổ phần Gạch men Cosevco	6	Upcom
+DCS	Công ty Cổ phần Tập đoàn Đại Châu	1.7	Upcom
+DCT	Công ty Cổ phần Tấm lợp Vật liệu xây dựng Đồng Nai	1.5	Upcom
+DDH	CTCP Đảm bảo giao thông đường thủy Hải Phòng	11	Upcom
+DDM	Công ty Cổ phần Hàng hải Đông Đô	3.6	Upcom
+DDN	Công ty Cổ phần Dược - Thiết bị Y tế Đà Nẵng	12.4	Upcom
+DDV	Công ty cổ phần DAP - VINACHEM	16.6	Upcom
+DFC	Công ty Cổ phần Xích líp Đông Anh	33.1	Upcom
+DFF	CTCP Tập đoàn Đua Fat	24.4	Upcom
+DGT	Công ty cổ phần Công trình Giao thông Đồng Nai	15.5	Upcom
+DHB	Công ty Cổ phần Phân đạm và Hóa chất Hà Bắc	10.1	Upcom
+DHD	Công ty cổ phần Dược Vật tư Y tế Hải Dương	28	Upcom
+DHN	Công ty Cổ phần Dược phẩm Hà Nội	33	Upcom
+DIC	Công ty Cổ phần Đầu tư và Thương mại DIC	2.1	Upcom
+DID	Công ty Cổ phần DIC - Đồng Tiến	4.6	Upcom
+DKC	CTCP Chợ Lạng Sơn	1.3	Upcom
+DKH	Trung tâm Đăng kiểm phương tiện Giao thông Thủy bộ	21	Upcom
+DKP	Công ty cổ phần Dược khoa	6.5	Upcom
+DLC	Công ty cổ phần Du lịch Cần Thơ	38.8	Upcom
+DLD	Công ty Cổ phần Du lịch Đắk Lắk	16.2	Upcom
+DLR	Công ty Cổ phần Địa ốc Đà Lạt	12.8	Upcom
+DLT	CTCP Du lịch và Thương mại – Vinacomin	17.9	Upcom
+DLV	Công ty Cổ phần Du lịch Việt Nam Vitours	13	Upcom
+DM7	Công ty cổ phần Dệt may 7	7.3	Upcom
+DMN	Công ty cổ phần Domenal	9.5	Upcom
+DNA	Công ty Cổ phần Điện nước An Giang	24.5	Upcom
+DNB	Công ty TNHH MTV Sách và Thiết bị trường học tỉnh Đắk Nông	6.9	Upcom
+DND	CTCP Đầu tư Xây dựng và Vật liệu Đồng Nai	25.5	Upcom
+DNE	Công ty Cổ phần Môi trường Đô thị Đà Nẵng	10	Upcom
+DNF	Công ty Cổ phần Lương thực Đà Nẵng	2.2	Upcom
+DNH	Công ty Cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi	40.6	Upcom
+DNL	Công ty cổ phần Logistic Cảng Đà Nẵng	23.1	Upcom
+DNN	Công ty Cổ phần Cấp nước Đà Nẵng	0.2	Upcom
+DNR	CTCP Đường sắt Quảng Nam - Đà Nẵng	9.5	Upcom
+DNS	Công ty Cổ phần Thép Đà Nẵng	15	Upcom
+DNT	Công ty Cổ phần Du lịch Đồng Nai	24	Upcom
+DNW	Công ty cổ phần Cấp nước Đồng Nai	25.7	Upcom
+DNY	Công ty Cổ phần Thép Dana - Ý	3.6	Upcom
+DOC	Công ty cổ phần Vật tư nông nghiệp Đồng Nai	10.3	Upcom
+DOP	CTCP Vận tải Xăng dầu Đồng Tháp	18	Upcom
+DP1	Công ty Cổ phần dược phẩm Trung ương CPC1	27.8	Upcom
+DP2	Công ty Cổ phần Dược phẩm Trung ương 2	5.7	Upcom
+DPD	CTCP Cao su Đồng Phú - Đắk Nông	24	Upcom
+DPH	Công ty Cổ phần Dược phẩm Hải Phòng	31.3	Upcom
+DPP	Công ty Cổ phần Dược Đồng Nai	17.9	Upcom
+DPS	Công ty cổ phần Đầu tư Phát triển Sóc Sơn	1	Upcom
+DRG	Công ty cổ phần Cao su Đắk Lắk	11.8	Upcom
+DRI	Công ty Cổ phần Đầu tư Cao su Đắk Lắk	12.7	Upcom
+DSC	Công ty Cổ phần Chứng khoán Đà Nẵng	12.8	Upcom
+DSD	Công ty cổ phần DHC Suối Đôi	21	Upcom
+DSG	Công ty Cổ phần Kính Viglacera Đáp Cầu	7.8	Upcom
+DSP	Công ty cổ phần Dịch vụ Du lịch Phú Thọ	13.6	Upcom
+DSS	Công ty Cổ phần Đường sắt Sài Gòn	6	Upcom
+DSV	Công ty Cổ phần Đường sắt Vĩnh Phú	7.5	Upcom
+DT4	CTCP Quản lý bảo trì đường thủy nội địa số 4	12	Upcom
+DTB	Công ty cổ phần Công trình Đô thị Bảo Lộc	10.6	Upcom
+DTE	CTCP Đầu tư Năng lượng Đại Trường Thành Holdings	16.9	Upcom
+DTG	Công ty Cổ phần Dược phẩm Tipharco	24.2	Upcom
+DTH	Công ty Cổ phần Dược - Vật tư Y tế Thanh Hóa	15.2	Upcom
+DTI	Công ty Cổ phần Đầu tư Đức Trung	9.4	Upcom
+DTN	Công ty Cổ phần Diêm Thống Nhất	62.9	Upcom
+DTP	Công ty cổ phần Dược phẩm CPC1 Hà Nội	67.6	Upcom
+DTV	Công ty Cổ phần Phát triển điện Nông thôn Trà Vinh	40	Upcom
+DUS	CTCP Dịch vụ Đô thị Đà Lạt	29.4	Upcom
+DVC	Công ty cổ phần Thương mại Dịch vụ Tổng hợp Cảng Hải Phòng	8.3	Upcom
+DVH	Công ty cổ phần Chế tạo máy điện Việt Nam - Hungari	7.4	Upcom
+DVN	Tổng Công ty Dược Việt Nam - CTCP	18.5	Upcom
+DVW	Công ty Cổ phần Dịch vụ và Xây dựng Cấp nước Đồng Nai	18.3	Upcom
+DWC	CTCP Cấp nước Đắk Lắk	11.7	Upcom
+DWS	Công ty cổ phần Cấp nước và Môi trường đô thị Đồng Tháp	13.2	Upcom
+DX2	Công ty cổ phần Đầu tư và Xây dựng 319.2	5.8	Upcom
+DXD	Công ty cổ phần Đầu tư và Xây dựng - VVMI	11	Upcom
+DXL	Công ty Cổ phần Du lịch và Xuất nhập khẩu Lạng Sơn	9	Upcom
+E12	CTCP Xây dựng điện Vneco12	9.5	Upcom
+E29	CTCP Đầu tư xây dựng và kỹ thuật 29	5.9	Upcom
+EAD	CTCP Thủy điện Điện lực Đắk Lắk	28.1	Upcom
+EFI	Công ty Cổ phần Đầu tư Tài chính Giáo dục	2	Upcom
+EIC	Công ty cổ phần EVN Quốc tế	26	Upcom
+EIN	Công ty cổ phần Đầu tư - Thương mại - Dịch vụ Điện lực	6.4	Upcom
+EME	Công ty Cổ phần Điện cơ	42.5	Upcom
+EMG	Công ty Cổ phần Thiết bị Phụ tùng Cơ điện	14	Upcom
+EMS	Tổng Công ty Chuyển phát nhanh Bưu Điện - CTCP	37	Upcom
+EPC	Công ty TNHH Một thành viên Cà phê Ea Pốk	8.6	Upcom
+EPH	Công ty Cổ phần dịch vụ xuất bản giáo dục Hà Nội	10.5	Upcom
+FBA	Công ty Cổ phần Tập đoàn Quốc tế FBA		Upcom
+FBC	Công ty Cổ phần Cơ khí Phổ Yên	3.7	Upcom
+FCC	CTCP Liên hợp Thực phẩm	7.5	Upcom
+FCS	Công ty Cổ phần Lương thực Thành phố Hồ Chí Minh	2.9	Upcom
+FDG	Công ty Cổ phần Docimexco	0.8	Upcom
+FGL	Công ty cổ phần Cà phê Gia Lai	12.5	Upcom
+FHN	Công Ty Cổ phần Xuất Nhập Khẩu Lương Thực - Thực Phẩm Hà Nội	13	Upcom
+FHS	Công ty cổ phần Phát hành sách T.P Hồ Chí Minh	21	Upcom
+FIC	Tổng công ty Vật Liệu Xây Dựng Số 1 - CTCP	26.8	Upcom
+FOC	Công ty cổ phần Dịch vụ Trực tuyến FPT	121.9	Upcom
+FOX	Công ty Cổ phần Viễn thông FPT	67.5	Upcom
+FRC	Công ty cổ phần Lâm đặc sản Xuất khẩu Quảng Nam	36.2	Upcom
+FRM	Công ty cổ phần Lâm nghiệp Sài Gòn	11.8	Upcom
+FSC	Công ty TNHH Chứng khoán Yuanta Việt Nam	8	Upcom
+FSO	Công ty Cổ phần Cơ khí đóng tàu thủy sản Việt Nam	11.5	Upcom
+FT1	Công ty Cổ phần Phụ tùng máy số 1	43.5	Upcom
+FTI	Công ty Cổ phần Công nghiệp - Thương mại Hữu Nghị	4.9	Upcom
+FTM	Công ty Cổ phần Đầu tư và Phát triển Đức Quân	2.6	Upcom
+G20	Công ty cổ phần Đầu tư Dệt may G.Home	1	Upcom
+G36	Tổng Công ty 36 - CTCP	9	Upcom
+GCB	Công ty Cổ Phần Petec Bình Định	17.7	Upcom
+GE2	Tổng công ty Phát điện 2 - Công ty TNHH MTV	30.7	Upcom
+GEE	CTCP Thiết bị Điện Gelex	33	Upcom
+GER	Công ty Cổ phần Thể thao Ngôi sao Geru	14.4	Upcom
+GGG	Công ty cổ phần Ô tô Giải Phóng	6.8	Upcom
+GGS	Công ty Cổ phần Giống Gia súc Hà Nội	3.1	Upcom
+GH3	CTCP Công trình Giao thông Hà Nội	9.6	Upcom
+GHC	Công ty Cổ phần Thủy điện Gia Lai	28	Upcom
+GLC	Công ty cổ phần Vàng Lào Cai	10	Upcom
+GLW	Công ty Cổ phần Cấp thoát nước Gia Lai	9	Upcom
+GND	Công ty Cổ phần Gạch ngói Đồng Nai	29.6	Upcom
+GQN	Trung tâm Giống Thủy sản Quảng Nam	10.1	Upcom
+GSM	Công ty cổ phần Thủy điện Hương Sơn	13	Upcom
+GTC	Công ty Cổ phần Trà Rồng Vàng	2.1	Upcom
+GTD	Công ty Cổ phần Giầy Thượng Đình	13.1	Upcom
+GTH	Công ty Cổ phần Xây dựng Giao thông Thừa Thiên Huế	4.8	Upcom
+GTK	Công ty cổ phần Giầy Thụy Khuê	12	Upcom
+GTS	Công ty cổ phần Công trình Giao thông Sài Gòn	10.5	Upcom
+GTT	Công ty Cổ phần Thuận Thảo	0.7	Upcom
+GVT	Công ty Cổ phần Giấy Việt Trì	103	Upcom
+H11	Công ty Cổ phần Xây dựng HUD101	7.6	Upcom
+HAB	Công ty Cổ phần Sách và Thiết bị Trường học Hà Nội	76	Upcom
+HAC	Công ty Cổ phần Chứng khoán Hải Phòng	8.4	Upcom
+HAF	Công ty Cổ phần Thực phẩm Hà Nội	29.4	Upcom
+HAM	Công ty Cổ phần Vật tư Hậu Giang	24.6	Upcom
+HAN	Tổng công ty Xây dựng Hà Nội - CTCP	9.9	Upcom
+HAV	Công ty Cổ phần rượu Hapro	4.7	Upcom
+HAW	Trung tâm Nước sạch và Vệ sinh môi trường nông thôn	10	Upcom
+HBD	Công ty Cổ phần Bao bì PP Bình Dương	14	Upcom
+HBH	Công ty Cổ phần Habeco - Hải Phòng	7.5	Upcom
+HBI	Công ty Cổ phần HBI	26	Upcom
+HBW	Công ty cổ phần Nước sạch Hòa Bình	7.1	Upcom
+HC1	CTCP Xây dựng số 1 Hà Nội	18.6	Upcom
+HC3	Công ty Cổ phần Xây dựng Số 3 Hải Phòng	34.5	Upcom
+HCB	Công ty cổ phần Dệt may 29/3	19.4	Upcom
+HCI	Công ty Cổ phần Đầu tư - Xây dựng Hà Nội	29.5	Upcom
+HCS	Công ty Cổ phần Thông tin Tín hiệu Đường sắt Hà Nội	14.3	Upcom
+HD2	CTCP Đầu tư Phát triển nhà HUD2	12.3	Upcom
+HD3	CTCP Đầu tư Phát triển Nhà và Đô thị MHDI3	10	Upcom
+HD6	CTCP Đầu tư và Phát triển Nhà số 6 Hà Nội	15.2	Upcom
+HD8	CTCP Đầu tư Phát triển Nhà và Đô thị HUD8	8.1	Upcom
+HDM	Công ty Cổ phần Dệt May Huế	28.9	Upcom
+HDO	Công ty Cổ phần Hưng Đạo Container	1	Upcom
+HDP	Công ty Cổ phần Dược Hà Tĩnh	14.9	Upcom
+HDW	Công ty cổ phần Kinh doanh nước sạch Hải Dương	15	Upcom
+HEC	Công ty Cổ phần Tư vấn Xây dựng Thủy lợi II	58.5	Upcom
+HEJ	Tổng Công ty Tư vấn xây dựng Thủy lợi Việt Nam - Công ty Cổ phần	23.8	Upcom
+HEM	Công ty cổ phần Chế tạo Điện Cơ Hà Nội	11	Upcom
+HEP	Công ty Cổ phần Môi trường và Công trình Đô thị Huế	11.9	Upcom
+HES	Công ty Cổ phần Dịch vụ Giải trí Hà Nội	16.9	Upcom
+HFB	Công ty Cổ phần Công trình Cầu phà Thành phố Hồ Chí Minh	13.2	Upcom
+HFC	Công ty Cổ phần Xăng dầu HFC	10.2	Upcom
+HFS	Công ty Cổ phần Thương mại dịch vụ Thời trang Hà Nội	28.6	Upcom
+HFT	Công ty Cổ phần Chứng khoán Pinetree	11	Upcom
+HFX	Công ty cổ phần Sản xuất - Xuất nhập khẩu Thanh Hà	6.6	Upcom
+HGA	Trung tâm Giống Nông nghiệp tỉnh Hậu Giang	10	Upcom
+HGC	Trung tâm Quy hoạch - Kiến trúc tỉnh Hậu Giang	9.1	Upcom
+HGR	Trung tâm Kỹ thuật Tài nguyên và Môi trường	10	Upcom
+HGT	Công ty cổ phần Du lịch Hương Giang	10	Upcom
+HGW	Công ty Cổ phần Cấp thoát nước - Công trình đô thị Hậu Giang	10.6	Upcom
+HHA	Công ty cổ phần Văn phòng phẩm Hồng Hà	45	Upcom
+HHN	Công ty Cổ Phần Vận tải và Dịch vụ Hàng hóa Hà Nội	6.6	Upcom
+HHR	Công ty Cổ phần Đường sắt Hà Hải	0.4	Upcom
+HIG	Công ty Cổ phần Tập đoàn HIPT	8.6	Upcom
+HIZ	Công ty cổ phần Khu công nghiệp Hố Nai	50	Upcom
+HJC	Công ty Cổ phần Hòa Việt	7.7	Upcom
+HKB	Công ty Cổ phần Nông nghiệp và Thực phẩm Hà Nội - Kinh Bắc	1.1	Upcom
+HKC	CTCP Dệt Kim Hà Nội	22.8	Upcom
+HKP	CTCP Bao bì Hà Tiên	32.3	Upcom
+HLA	Công ty Cổ phần Hữu Liên Á Châu	0.7	Upcom
+HLB	Công ty Cổ phần Bia và Nước giải khát Hạ Long	286.9	Upcom
+HLE	Công ty Cổ phần Điện chiếu sáng Hải Phòng	3.1	Upcom
+HLG	Công ty Cổ phần Tập đoàn Hoàng Long	6	Upcom
+HLR	Công ty Cổ phần Đường sắt Hà Lạng	12.5	Upcom
+HLS	Công ty Cổ phần Sứ kỹ thuật Hoàng Liên Sơn	28.6	Upcom
+HLT	CTCP Dệt may Hoàng Thị Loan	18	Upcom
+HLY	Công ty Cổ phần Viglacera Hạ Long I	15.9	Upcom
+HMG	CTCP Kim khí Hà Nội - VNSTEEL	21.7	Upcom
+HMS	Công ty Cổ phần Xây dựng bảo tàng Hồ Chí Minh	28.7	Upcom
+HNA	Công ty Cổ phần Thủy điện Hủa Na	16	Upcom
+HNB	CTCP Bến xe Hà Nội	13.7	Upcom
+HND	CTCP Nhiệt điện Hải Phòng	16.4	Upcom
+HNE	Công ty cổ phần Hanel	10.2	Upcom
+HNF	CTCP Thực phẩm Hữu Nghị	20	Upcom
+HNI	Công ty Cổ phần May Hữu Nghị	67.9	Upcom
+HNP	Công ty Cổ phần Hanel Xốp nhựa	24.5	Upcom
+HNR	Công ty cổ phần Rượu và Nước giải khát Hà Nội	12	Upcom
+HNT	Công ty Cổ phần Xe điện Hà Nội	4.1	Upcom
+HPB	Công ty Cổ phần Bao bì PP	20.5	Upcom
+HPD	Công ty Công ty Cổ phần Thủy điện Đăk Đoa	23	Upcom
+HPH	Công ty Cổ phần Hóa chất Hưng Phát Hà Bắc	14.9	Upcom
+HPI	Công ty Cổ phần Khu công nghiệp Hiệp Phước	20.1	Upcom
+HPL	Công ty Cổ phần Bến xe Tàu phà Cần Thơ	6.6	Upcom
+HPP	Công ty Cổ phần Sơn Hải Phòng	61.7	Upcom
+HPT	Công ty Cổ phần Dịch vụ Công nghệ Tin học HPT	13	Upcom
+HPU	Công ty cổ phần 28 Hưng Phú	7.4	Upcom
+HPW	Công ty Cổ phần Cấp nước Hải Phòng	17.8	Upcom
+HRB	Công ty Cổ phần Harec Đầu tư và Thương mại	26.5	Upcom
+HRG	Công ty cổ phần Cao su Hà Nội	6.6	Upcom
+HRT	Công ty cổ phần Vận tải Đường sắt Hà Nội	5	Upcom
+HSA	Công ty Cổ phần HESTIA	41	Upcom
+HSI	Công ty Cổ phần Vật tư tổng hợp và Phân bón Hóa sinh	1.9	Upcom
+HSM	Tổng Công ty cổ phần Dệt may Hà Nội	19.4	Upcom
+HSP	CTCP Sơn Tổng hợp Hà Nội	15.9	Upcom
+HSV	Công ty cổ phần Gang thép Hà Nội	7.2	Upcom
+HTE	Công ty Cổ phần Đầu tư Kinh doanh Điện lực Thành phố Hồ Chí Minh	6.3	Upcom
+HTG	Tổng Công ty cổ phần Dệt may Hòa Thọ	38.2	Upcom
+HTH	Công ty TNHH MTV Hoa tiêu Hàng hải - TKV	19.8	Upcom
+HTK	Trung tâm Đăng kiểm xe cơ giới Hải Dương	12	Upcom
+HTM	Tổng Công ty Thương mại Hà Nội - CTCP	17.1	Upcom
+HTR	Công ty Cổ phần Đường sắt Hà Thái	10	Upcom
+HTT	Công ty cổ phần Thương mại Hà Tây	1.5	Upcom
+HTU	Công ty Cổ phần Môi trường và Công trình Đô thị Hà Tĩnh	9	Upcom
+HTW	Công ty Cổ phần Cấp nước Hà Tĩnh	10	Upcom
+HU4	Công ty Cổ phần Đầu tư và Xây dựng HUD4	9.6	Upcom
+HU6	Công ty cổ phần Đầu tư Phát triển nhà và Đô thị HUD 6	8	Upcom
+HUG	Tổng Công ty may Hưng Yên - Công ty Cổ phần	38	Upcom
+HUX	CTCP Khoáng sản Thừa Thiên Huế	10	Upcom
+HVA	Công ty cổ phần Đầu tư HVA	7.1	Upcom
+HVC	Công ty Cổ phần Hưng Vượng	14.1	Upcom
+HVG	Công ty Cổ phần Hùng Vương	3.2	Upcom
+HWS	Công ty cổ phần Cấp nước Thừa Thiên Huế	13	Upcom
+I10	CTCP Đầu tư Xây dựng số 10 IDICO	0.8	Upcom
+IBD	CTCP In Tổng hợp Bình Dương	15.5	Upcom
+IBN	Công ty TNHH MTV In báo Nghệ An	12	Upcom
+ICC	CTCP Xây dựng Công nghiệp	33.5	Upcom
+ICF	Công ty Cổ phần Đầu tư Thương mại Thủy Sản	2.6	Upcom
+ICI	Công ty Cổ phần Đầu tư và Xây dựng Công nghiệp	9.3	Upcom
+ICN	Công ty cổ phần Đầu tư Xây dựng Dầu khí IDICO	75.9	Upcom
+IDN	Công ty cổ phần In và Dịch vụ Đà Nẵng	9	Upcom
+IDP	Công ty cổ phần Sữa Quốc tế	165	Upcom
+IFC	CTCP Thực phẩm Công nghệ Sài Gòn	6.9	Upcom
+IFS	Công ty Cổ phần Thực phẩm Quốc tế	22.9	Upcom
+IHK	Công ty Cổ phần In Hàng không	15	Upcom
+IKH	Công ty Cổ phần In Khoa học Kỹ thuật	7.9	Upcom
+ILA	Công ty Cổ phần ILA	5.7	Upcom
+ILC	Công ty Cổ phần Hợp tác Lao động với Nước ngoài	6.2	Upcom
+ILS	Công ty Cổ phần Đầu tư Thương mại và Dịch vụ Quốc tế	29	Upcom
+IME	Công ty Cổ phần Cơ khí và Xây lắp Công nghiệp	101	Upcom
+IMT	Công ty Cổ phần Xuất nhập khẩu Đầu tư Thành phố Hồ Chí Minh	2	Upcom
+IN4	Công ty Cổ phần In số 4	100	Upcom
+IPH	Công ty TNHH MTV In và Phát hành biểu mẫu Thống kê	69	Upcom
+IRC	Công ty Cổ phần Cao su Công nghiệp	8.7	Upcom
+ISG	CTCP Vận tải biển & Hợp tác Quốc tế	8	Upcom
+ISH	Công ty cổ phần Thủy điện Srok Phu Miêng IDICO	26	Upcom
+IST	Công ty Cổ phần ICD Tân Cảng Sóng Thần	40	Upcom
+ITS	Công ty cổ phần Đầu tư, Thương mại và Dịch vụ - Vinacomin	5	Upcom
+JOS	Công ty Cổ phần Chế biến Thủy sản Xuất khẩu Minh Hải	1.7	Upcom
+JSC	Công ty Cổ phần Xây dựng Cầu đường Hà Nội	2.3	Upcom
+KAC	Công ty Cổ phần Đầu tư Địa ốc Khang An	20.3	Upcom
+KBE	Công ty Cổ phần Sách - Thiết bị Trường học Kiên Giang	17.5	Upcom
+KCB	CTCP Khoáng sản và luyện kim Cao Bằng	8.4	Upcom
+KCE	Công ty Cổ phần Bê tông Ly tâm Điện lực Khánh Hòa	13.4	Upcom
+KDF	Công ty Cổ phần Thực phẩm Đông lạnh KIDO	46.8	Upcom
+KGM	Công ty Cổ phần Xuất nhập khẩu Kiên Giang	11.5	Upcom
+KGU	Công ty Cổ phần Phát triển Đô thị Kiên Giang	19	Upcom
+KHA	Công ty Cổ phần Đầu tư và Dịch vụ Khánh Hội	24.8	Upcom
+KHB	Công ty Cổ phần Khoáng sản Hòa Bình	2.6	Upcom
+KHD	CTCP Khai thác, Chế biến khoáng sản Hải Dương	7.5	Upcom
+KHL	Công ty cổ phần Khoáng sản và Vật liệu Xây dựng Hưng Long	2	Upcom
+KHW	Công ty Cổ phần Cấp nước Khánh Hòa	17	Upcom
+KIP	Công ty Cổ phần K.I.P Việt Nam	10.9	Upcom
+KLB	Ngân hàng Thương mại cổ phần Kiên Long	23.7	Upcom
+KLM	CTCP Kim loại màu Nghệ Tĩnh	5.8	Upcom
+KSA	Công ty Cổ phần Công nghiệp Khoáng sản Bình Thuận	0.48	Upcom
+KSC	Công ty Cổ phần Muối Khánh Hòa	0.5	Upcom
+KSE	Công ty Cổ phần Xuất khẩu Thủy sản Khánh Hòa	29	Upcom
+KSH	Công ty Cổ phần Damac GLS	1.3	Upcom
+KSK	Công ty cổ phần Khoáng sản Luyện kim màu	2.8	Upcom
+KSS	Công ty Cổ phần Khoáng sản Na Rì Hamico	0.8	Upcom
+KSV	Tổng Công ty Khoáng sản TKV - CTCP	40.9	Upcom
+KTB	Công ty Cổ phần Đầu tư Khoáng sản Tây Bắc	1.9	Upcom
+KTC	Công ty Cổ phần Thương mại Kiên Giang	15.6	Upcom
+KTL	CTCP Kim khí Thăng Long	21.8	Upcom
+KTU	Công ty Cổ phần Môi trường đô thị Kon Tum	13.8	Upcom
+L12	Công ty cổ phần Licogi 12	5.4	Upcom
+L44	Công ty Cổ phần Lilama 45.4	1	Upcom
+L45	CTCP Lilama 45.1	3.9	Upcom
+L63	CTCP Lilama 69-3	6.2	Upcom
+LAI	CTCP Đầu tư xây dựng Long An IDICO	34.8	Upcom
+LAW	Công ty cổ phần Cấp thoát nước Long An	9	Upcom
+LBC	Công ty Cổ phần Thương mại - Đầu tư Long Biên	16.5	Upcom
+LCC	Công ty Cổ phần Xi măng Hồng Phong	10	Upcom
+LCW	Công ty Cổ phần Nước sạch Lai Châu	10	Upcom
+LDW	Công ty cổ phần Cấp thoát nước Lâm Đồng	12.7	Upcom
+LG9	Công ty Cổ phần Cơ giới và Xây lắp số 9	10	Upcom
+LGM	CTCP Giày da và May mặc Xuất khẩu (LEGAMEX)	11.7	Upcom
+LIC	Tổng Công ty Licogi - Công ty Cổ phần	18.5	Upcom
+LKW	CTCP Cấp nước Long Khánh	41.5	Upcom
+LLM	Tổng Công ty Lắp máy Việt Nam - CTCP	11.5	Upcom
+LM3	Công ty Cổ phần Lilama 3	3.8	Upcom
+LMC	Công ty Cổ phần Khoáng sản Latca	20	Upcom
+LMH	Công ty Cổ phần Quốc tế Holding	9.8	Upcom
+LMI	Công ty Cổ phần Đầu tư Xây dựng Lắp máy IDICO	9	Upcom
+LNC	Công ty cổ phần Lệ Ninh	10	Upcom
+LO5	Công ty Cổ phần Lilama 5	1.3	Upcom
+LPT	Công ty cổ phần Thương mại và Sản xuất Lập Phương Thành	8.1	Upcom
+LQN	Công ty cổ phần Licogi Quảng Ngãi	9	Upcom
+LSG	Công ty cổ phần Bất động sản Sài Gòn VINA	8.4	Upcom
+LTC	Công ty cổ phần Điện nhẹ Viễn thông	1.8	Upcom
+LTG	Công ty Cổ phần Tập đoàn Lộc Trời	37.9	Upcom
+LWS	Công ty Cổ phần Cấp nước tỉnh Lào Cai	11.2	Upcom
+LYF	CTCP Lương Thực Lương Yên	16.8	Upcom
+M10	Tổng Công ty May 10 - CTCP	21	Upcom
+MA1	Công ty cổ phần Thiết bị	28.4	Upcom
+MBN	Công ty cổ phần Môi trường và Công trình Đô thị Bắc Ninh	8.4	Upcom
+MC3	Công ty Cổ phần Khoáng sản 3 - Vimico	8	Upcom
+MCH	Công ty Cổ phần Hàng tiêu dùng Masan	98	Upcom
+MCI	CTCP Đầu tư Xây dựng và Phát triển Vật liệu IDICO	10	Upcom
+MCK	''		Upcom
+MCM	Công ty cổ phần Giống bò sữa Mộc Châu	43.7	Upcom
+MCT	Công ty Cổ phần Kinh doanh Vật tư và Xây dựng	13	Upcom
+MDA	Công ty Cổ phần Môi trường Đô thị Đông Anh	9	Upcom
+MDF	Công ty cổ phần Gỗ MDF VRG Quảng Trị	14.3	Upcom
+MDN	CTCP Tổng Công ty May Đồng Nai	15.9	Upcom
+MDT	CTCP Cơ khí mỏ và Đóng tàu - TKV	7.5	Upcom
+MEC	Công ty Cổ phần Cơ khí - lắp máy Sông Đà	6.3	Upcom
+MEF	Công ty cổ phần MEINFA	1.6	Upcom
+MEG	Công ty cổ phần Megram	13	Upcom
+MES	Công ty cổ phần Cơ điện Công trình	10	Upcom
+MFS	Công ty Cổ phần Dịch vụ Kỹ thuật Mobifone	30	Upcom
+MGC	Công ty cổ phần Địa chất mỏ - TKV	4.8	Upcom
+MGG	Tổng Công ty Đức Giang - Công ty Cổ phần	40	Upcom
+MGR	Công ty cổ phần Tập đoàn Mgroup	15.3	Upcom
+MH3	Công ty Cổ phần Khu công nghiệp Cao Su Bình Long	48.5	Upcom
+MHP	CTCP Môi trường và Dịch vụ đô thị Việt Trì	11.5	Upcom
+MHY	Công ty TNHH MTV Môi trường và Công trình Đô thị Hưng Yên	18.8	Upcom
+MIC	Công ty Cổ phần Kỹ nghệ Khoáng sản Quảng Nam	12	Upcom
+MIE	Tổng Công ty Máy và Thiết bị Công nghiệp - CTCP	14	Upcom
+MJC	Công ty Cổ phần Thương mại Mộc Hóa	12	Upcom
+MKP	Công ty Cổ phần Hóa - Dược phẩm Mekophar	36.1	Upcom
+MKT	Công ty cổ phần Dệt Minh Khai	15.3	Upcom
+MLC	Công ty Cổ phần Môi trường Đô thị Tỉnh Lào Cai	5.8	Upcom
+MLN	Công ty cổ phần Mai Linh Miền Bắc	6.9	Upcom
+MLS	Công ty cổ phần Chăn nuôi - Mitraco	19.2	Upcom
+MMC	Công ty Cổ phần Khoáng sản Mangan	0.9	Upcom
+MML	Công ty Cổ phần Masan MEATLife	64.1	Upcom
+MNB	Tổng Công ty May Nhà Bè - Công ty Cổ phần	24.8	Upcom
+MND	Công ty Cổ phần Môi trường Nam Định	9.4	Upcom
+MPC	Công ty Cổ phần Tập đoàn Thủy sản Minh Phú	48	Upcom
+MPT	Công ty cổ phần Tập đoàn Trường Tiền	1.3	Upcom
+MPY	Công ty Cổ phần Môi trường Đô thị Phú Yên	7.4	Upcom
+MQB	Công ty Cổ phần Môi trường và phát triển Đô thị Quảng Bình	9.3	Upcom
+MQN	Công ty Cổ phần Môi trường đô thị Quảng Ngãi	28.5	Upcom
+MRF	Công ty cổ phần Merufa	55	Upcom
+MSR	Công ty cổ phần Masan High-Tech Materials	19	Upcom
+MTA	Tổng Công ty Khoáng sản và Thương mại Hà Tĩnh - CTCP	9.2	Upcom
+MTB	CTCP Môi trường và Công trình Đô thị tỉnh Thái Bình	3.6	Upcom
+MTC	CTCP Dịch vụ Du lịch Mỹ Trà	8	Upcom
+MTG	Công ty Cổ phần MT Gas	6.1	Upcom
+MTH	Công ty Cổ phần Môi trường Đô thị Hà Đông	25.3	Upcom
+MTL	CTCP Dịch vụ Môi trường Đô thị Từ Liêm	5.8	Upcom
+MTM	CTCP Mỏ và Xuất nhập khẩu Khoáng sản Miền Trung	2.6	Upcom
+MTP	Công ty Cổ phần Dược Medipharco	12.7	Upcom
+MTS	Công ty cổ phần Vật tư - TKV	10.5	Upcom
+MTV	Công ty Cổ phần Dịch vụ Môi trường và Công trình Đô thị Vũng Tàu	17.3	Upcom
+MVC	Công ty Cổ phần Vật liệu và Xây dựng Bình Dương	8	Upcom
+MVN	Tổng Công ty Hàng hải Việt Nam - CTCP	26.4	Upcom
+MVY	Công ty Cổ phần Môi trường và Dịch vụ Đô thị Vĩnh Yên	23.2	Upcom
+MXC	Trung tâm Nông nghiệp Mùa Xuân	20.3	Upcom
+NAB	Ngân hàng Thương mại cổ phần Nam Á	13.6	Upcom
+NAC	Công ty Cổ phần Tư vấn Xây dựng Tổng hợp	1.4	Upcom
+NAS	Công ty Cổ phần Dịch vụ Hàng không Sân bay Nội Bài	29	Upcom
+NAU	Công ty cổ phần Môi trường và Công trình đô thị Nghệ An	6.3	Upcom
+NAW	Công ty Cổ phần Cấp nước Nghệ An	8.9	Upcom
+NBE	Công ty Cổ phần Sách và Thiết bị Giáo dục Miền Bắc	14.5	Upcom
+NBR	CTCP Đường sắt Nghĩa Bình	7.9	Upcom
+NBS	Công ty Cổ phần Bến xe Nghệ An	40	Upcom
+NBT	CTCP Cấp thoát nước Bến Tre	15.9	Upcom
+NCP	Công ty Cổ phần Nhiệt điện Cẩm Phả - TKV	8.5	Upcom
+NCS	Công ty cổ phần Suất ăn Hàng không Nội Bài	22.2	Upcom
+ND2	Công ty Cổ phần Đầu tư Phát triển điện Miền Bắc 2	35	Upcom
+NDC	Công ty Cổ phần Nam Dược	99.5	Upcom
+NDF	CTCP Chế biến thực phẩm nông sản xuất khẩu Nam Định	1.4	Upcom
+NDP	Công ty Cổ phần Dược phẩm 2/9	25	Upcom
+NDT	Tổng Công ty cổ phần Dệt may Nam Định	20.4	Upcom
+NDW	CTCP Cấp nước Nam Định	8	Upcom
+NED	Công ty cổ phần Đầu tư và Phát triển Điện Tây Bắc	7	Upcom
+NGC	Công ty Cổ phần Chế biến Thủy sản Xuất khẩu Ngô Quyền	19.5	Upcom
+NHN	Công ty cổ phần Phát triển đô thị Nam Hà Nội	30	Upcom
+NHP	Công ty Cổ phần Sản xuất Xuất nhập khẩu NHP	1.1	Upcom
+NHV	Công ty cổ phần Đầu tư NHV	19.9	Upcom
+NJC	Công ty cổ phần May Nam Định	21.9	Upcom
+NLS	Công ty cổ phần Cấp thoát Nước Lạng Sơn	4.5	Upcom
+NMK	Công ty cổ phần Xây dựng Công trình 510	7.9	Upcom
+NNB	CTCP Cấp thoát nước Ninh Bình	9.9	Upcom
+NNG	Công ty Cổ phần Công nghiệp - Dịch vụ - Thương Mại Ngọc Nghĩa	21.5	Upcom
+NNQ	Trung tâm Giống Nông - Lâm nghiệp Quảng Nam	7.3	Upcom
+NNT	Công ty cổ phần Cấp nước Ninh Thuận	36.9	Upcom
+NOS	Công ty Cổ phần Vận tải biển và Thương mại Phương Đông	1.7	Upcom
+NPH	CTCP Khách sạn Bưu điện Nha Trang	18.2	Upcom
+NPS	Công ty Cổ phần May Phú Thịnh - Nhà Bè	26.4	Upcom
+NQB	Công ty cổ phần Cấp nước Quảng Bình	20.1	Upcom
+NQN	Công ty Cổ phần Nước sạch Quảng Ninh	16.5	Upcom
+NQT	Công ty Cổ phần Nước sạch Quảng Trị	8	Upcom
+NS2	Công ty Cổ phần Nước sạch số 2 Hà Nội	8.3	Upcom
+NS3	CTCP Sản xuất Kinh doanh Nước sạch số 3 Hà Nội	8.2	Upcom
+NSG	CTCP Nhựa Sài Gòn	14	Upcom
+NSL	Công ty cổ phần Cấp nước Sơn La	16	Upcom
+NSP	Công ty Cổ phần Nhựa Sam Phú	3.2	Upcom
+NSS	Công ty cổ phần Nông Súc Sản Đồng Nai	4	Upcom
+NTB	Công ty cổ phần Đầu tư Xây dựng và Khai thác Công trình Giao thông 584	1.1	Upcom
+NTC	Công ty Cổ phần Khu Công nghiệp Nam Tân Uyên	168.5	Upcom
+NTF	CTCP Dược - Vật tư Y tế Nghệ An	18.7	Upcom
+NTR	Công ty Cổ Phần Đường sắt Nghệ Tĩnh	3.6	Upcom
+NTT	Công ty Cổ phần Dệt - May Nha Trang	8.5	Upcom
+NTW	Công ty cổ phần Cấp nước Nhơn Trạch	18.4	Upcom
+NUE	Công ty Cổ phần Môi trường Đô thị Nha Trang	10	Upcom
+NVP	Công ty Cổ phần Nước sạch Vĩnh Phúc	5.2	Upcom
+NWT	CTCP Vận tải Newway	4.6	Upcom
+NXT	CTCP Sản xuất và Cung ứng vật liệu xây dựng Kon Tum	14	Upcom
+ODE	Công ty cổ phần Tập đoàn Truyền thông và Giải trí ODE	42.9	Upcom
+OIL	Tổng Công ty Dầu Việt Nam - CTCP	13.1	Upcom
+OLC	Công ty cổ phần Xây dựng, Dịch vụ và Hợp tác lao động		Upcom
+ONW	Công ty Cổ phần Dịch vụ Một Thế giới	3.9	Upcom
+PAI	CTCP Công nghệ thông tin, viễn thông và tự động hóa Dầu khí	13	Upcom
+PAP	Công ty cổ phần Dầu khí đầu tư khai thác Cảng Phước An	10.6	Upcom
+PAS	Công ty cổ phần Quốc tế Phương Anh	9.1	Upcom
+PAT	CTCP Phốt pho Apatit Việt Nam	202	Upcom
+PBC	CTCP Dược phẩm Trung ương I - Pharbaco	14.5	Upcom
+PBK	Công ty cổ phần Điện lực Dầu khí Bắc Kạn	10.9	Upcom
+PBT	Công ty cổ phần Nhà và Thương mại Dầu khí	9.7	Upcom
+PCC	Công ty Cổ phần Tập đoàn Xây lắp 1 - Petrolimex	18.8	Upcom
+PCF	Công ty cổ phần Cà Phê Petec	4	Upcom
+PCM	Công ty Cổ phần Vật liệu Xây dựng Bưu điện	12.3	Upcom
+PCN	Công ty cổ phần Hóa phẩm dầu khí DMC - miền Bắc	4.5	Upcom
+PDT	Công ty TNHH MTV Thương mại Dầu khí Đồng Tháp	12.6	Upcom
+PDV	Công ty cổ phần Vận tải dầu Phương Đông Việt	9.5	Upcom
+PEC	Công ty Cổ phần Cơ khí Điện lực	8	Upcom
+PEG	Tổng Công ty Thương mại Kỹ thuật và Đầu tư - CTCP	7.3	Upcom
+PEQ	Công ty cổ phần Thiết bị Xăng dầu Petrolimex	43.3	Upcom
+PFL	Công ty cổ phần Dầu khí Đông Đô	4.4	Upcom
+PFV	Công ty Cổ phần Đầu tư và Thương mại PFV	35	Upcom
+PGB	Ngân hàng TMCP Xăng dầu Petrolimex	18.2	Upcom
+PHH	Công ty Cổ phần Hồng Hà Việt Nam	13.1	Upcom
+PHS	Công ty Cổ phần Chứng khoán Phú Hưng	21.7	Upcom
+PID	Công ty Cổ phần Trang trí Nội thất Dầu khí	3.4	Upcom
+PIS	Tổng Công ty Pisico Bình Định - CTCP	10.3	Upcom
+PIV	Công ty Cổ phần PIV	1.6	Upcom
+PJS	Công ty cổ phần Cấp nước Phú Hòa Tân	25.3	Upcom
+PKR	Công ty Cổ phần Đường sắt Phú Khánh	11.5	Upcom
+PLA	Công ty cổ phần Đầu tư Dịch vụ Hạ tầng Xăng Dầu	5.6	Upcom
+PLE	CTCP Tư vấn Xây dựng Petrolimex	32.1	Upcom
+PLO	Công ty Cổ phần Kho Vận Petec	4.6	Upcom
+PMJ	Công ty cổ phần Vật tư Bưu điện	23.1	Upcom
+PMT	Công ty cổ phần Viễn thông TELVINA Việt Nam	9.3	Upcom
+PMW	Công ty cổ phần Cấp nước Phú Mỹ	36	Upcom
+PND	Công ty Cổ phần Xăng dầu Dầu khí Nam Định	27.9	Upcom
+PNG	Công ty cổ phần Thương mại Phú Nhuận	12.8	Upcom
+PNP	Công ty cổ phần Tân Cảng - Phú Hữu	25	Upcom
+PNT	Công ty cổ phần Kỹ thuật Xây dựng Phú Nhuận	7.1	Upcom
+POB	Công ty Cổ phần Xăng dầu Dầu khí Thái Bình	49.2	Upcom
+POS	Công ty Cổ phần Dịch vụ Lắp đặt, Vận hành và Bảo dưỡng Công trình Dầu khí biển PTSC	13.7	Upcom
+POV	Công ty Cổ phần Xăng dầu Dầu khí Vũng Áng	12.5	Upcom
+PPG	Công ty cổ phần Sản xuất Thương mại Dịch vụ Phú Phong	1.8	Upcom
+PPH	Tổng Công ty Cổ phần Phong Phú	30.3	Upcom
+PPI	Công ty Cổ phần Đầu tư và Phát triển Dự án Hạ tầng Thái Bình Dương	1.2	Upcom
+PPT	Công ty cổ phần Petro Times	26.2	Upcom
+PQN	CTCP Dịch vụ Dầu khí Quảng Ngãi PTSC	4	Upcom
+PRO	Công ty Cổ phần Procimex Việt Nam	8.4	Upcom
+PRT	Tổng công ty Sản xuất - Xuất nhập khẩu Bình Dương - TNHH MTV	14.8	Upcom
+PSB	Công ty cổ phần Đầu tư Dầu khí Sao Mai – Bến Đình	7.8	Upcom
+PSG	Công ty Cổ phần Đầu tư và Xây lắp Dầu khí Sài Gòn	2.6	Upcom
+PSL	Công ty Cổ phần Chăn nuôi Phú Sơn	17.3	Upcom
+PSN	Công ty Cổ phần Dịch vụ Kỹ thuật PTSC Thanh Hóa	12.9	Upcom
+PSP	Công ty Cổ phần Cảng dịch vụ Dầu khí Đình Vũ	11.2	Upcom
+PTE	Công ty Cổ phần Xi măng Phú Thọ	2.5	Upcom
+PTG	Công ty Cổ phần May Xuất khẩu Phan Thiết	0.2	Upcom
+PTH	Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Hà Tây	17.8	Upcom
+PTK	Công ty Cổ phần Luyện kim Phú Thịnh	1.7	Upcom
+PTM	Công ty cổ phần Sản xuất, Thương mại và Dịch vụ ôtô PTM	21.4	Upcom
+PTO	Công ty Cổ phần Dịch vụ - Xây dựng Công trình Bưu điện	20.5	Upcom
+PTP	Công ty Cổ phần Dịch vụ Viễn thông và In Bưu điện	12.7	Upcom
+PTT	Công ty Cổ phần Vận tải Dầu khí Đông Dương	5.9	Upcom
+PTV	Công ty cổ phần Thương mại Dầu khí	8.2	Upcom
+PTX	Công ty cổ phần Vận tải và Dịch vụ Petrolimex Nghệ Tĩnh	0.4	Upcom
+PVA	Công ty Cổ phần Tổng Công ty Xây lắp Dầu khí Nghệ An	1.2	Upcom
+PVE	Tổng Công ty Tư vấn Thiết kế Dầu khí-CTCP	4.1	Upcom
+PVH	Công ty cổ phần Xây lắp dầu khí Thanh Hóa	1.7	Upcom
+PVM	Công ty Cổ phần Máy - Thiết bị Dầu khí	14.1	Upcom
+PVO	CTCP Dầu nhờn PV Oil	8.9	Upcom
+PVP	Công ty Cổ phần Vận tải dầu khí Thái Bình Dương	11.5	Upcom
+PVR	Công ty Cổ phần đầu tư PVR Hà Nội	2.2	Upcom
+PVV	Công ty Cổ phần Vinaconex 39	3.4	Upcom
+PVX	Tổng Công ty cổ phần Xây lắp Dầu khí Việt Nam	3.8	Upcom
+PVY	Công ty Cổ phần Chế tạo Giàn khoan Dầu khí	1.8	Upcom
+PWA	Công ty Cổ phần Bất động sản Dầu khí	6	Upcom
+PWS	Công ty Cổ phần Cấp thoát nước Phú Yên	10.7	Upcom
+PX1	Công ty cổ phần Xi măng Sông Lam 2	10	Upcom
+PXA	Công ty cổ phần Đầu tư & Thương mại Dầu khí Nghệ An	1.4	Upcom
+PXC	Công ty cổ phần Phát triển đô thị Dầu khí	0.5	Upcom
+PXI	Công ty Cổ phần Xây dựng công nghiệp và dân dụng Dầu khí	3.2	Upcom
+PXL	Tổng Công ty cổ phần Đầu tư và Phát triển KCN Dầu khí-Long Sơn	9	Upcom
+PXM	Công ty Cổ phần Xây lắp Dầu khí Miền Trung	1.1	Upcom
+PXT	Công ty Cổ phần Xây lắp Đường ống Bể chứa Dầu khí	4	Upcom
+PYU	Công ty Cổ phần Môi trường và Công trình Đô thị Phúc Yên	22.5	Upcom
+QBR	Công ty Cổ Phần Đường sắt Quảng Bình	10	Upcom
+QCC	CTCP Đầu tư Xây dựng và Phát triển Hạ tầng Viễn thông	11.2	Upcom
+QHW	CTCP Nước khoáng Quảng Ninh	22.4	Upcom
+QLD	Công ty Cổ phần Quản lý và Xây dựng giao thông Lạng Sơn	4.4	Upcom
+QLT	Công ty Cổ phần Quản lý Bảo trì Đường thủy nội địa số 10	22	Upcom
+QNC	Công ty Cổ phần Xi măng và Xây dựng Quảng Ninh	8.6	Upcom
+QNS	Công ty Cổ phần Đường Quảng Ngãi	44.6	Upcom
+QNT	Công ty cổ phần Tư vấn và Đầu tư Phát triển Quảng Nam	9.9	Upcom
+QNU	Công ty Cổ phần Môi trường Đô thị Quảng Nam	14.7	Upcom
+QNW	CTCP Cấp thoát nước và Xây dựng Quảng Ngãi	8.6	Upcom
+QPH	Công ty Cổ phần Thủy điện Quế Phong	31	Upcom
+QSP	Công ty cổ phần Tân Cảng Quy Nhơn	22.9	Upcom
+QTP	Công ty Cổ phần Nhiệt điện Quảng Ninh	16.5	Upcom
+RAT	CTCP Vận tải và Thương mại Đường sắt	17	Upcom
+RBC	CTCP Công nghiệp và Xuất nhập khẩu Cao Su	14.6	Upcom
+RCC	Công ty Cổ phần Tổng công ty Công trình đường sắt	38	Upcom
+RCD	Công ty cổ phần Xây dựng - Địa ốc Cao su	3.3	Upcom
+REM	Công ty cổ phần Tu bổ di tích Trung ương - Vinaremon	0.3	Upcom
+RGC	Công ty cổ phần Đầu tư PV - Inconess	10.5	Upcom
+RHN	Công ty Cổ phần Đường sắt Hà Ninh	10	Upcom
+RIC	Công ty Cổ phần Quốc tế Hoàng Gia	12.8	Upcom
+RLC	Công ty Cổ phần Đường bộ Lào Cai	10	Upcom
+RTB	Công ty cổ phần Cao su Tân Biên	31.2	Upcom
+RTH	Công ty Cổ phần Đường sắt Thanh Hóa	4.7	Upcom
+RTS	CTCP Thông tin tín hiệu Đường sắt Đà Nẵng	19.9	Upcom
+S12	Công ty Cổ phần Sông Đà 12	1.9	Upcom
+S27	Công ty cổ phần Sông Đà 27	6.2	Upcom
+S33	Công ty cổ phần Mía đường 333	27.5	Upcom
+S72	Công ty Cổ phần Sông Đà 7.02	5.4	Upcom
+S74	Công ty Cổ phần Sông Đà 7.04	9.5	Upcom
+S96	Công ty Cổ phần Sông Đà 9.06	0.9	Upcom
+SAC	Công ty Cổ phần Xếp dỡ và Dịch vụ Cảng Sài Gòn	12.8	Upcom
+SAL	Công ty Cổ phần Trục vớt cứu hộ Việt Nam	12.4	Upcom
+SAP	Công ty Cổ phần In Sách giáo khoa tại Tp.Hồ Chí Minh	33.1	Upcom
+SAS	CTCP Dịch vụ Hàng không Sân bay Tân Sơn Nhất	26.7	Upcom
+SB1	Công ty cổ phần Bia Sài Gòn - Nghệ Tĩnh	7.3	Upcom
+SBD	Công ty Cổ phần Công nghệ Sao Bắc Đẩu	15	Upcom
+SBH	Công ty cổ phần Thủy điện Sông Ba Hạ	41.8	Upcom
+SBL	Công ty Cổ phần Bia Sài Gòn - Bạc Liêu	9.5	Upcom
+SBM	Công ty Cổ phần Đầu tư Phát triển Bắc Minh	30.3	Upcom
+SBR	CTCP Cao su Sông Bé	11.2	Upcom
+SBS	Công ty Cổ phần Chứng khoán Ngân hàng Sài Gòn Thương Tín	8.5	Upcom
+SCA	CTCP Nông nghiệp Sông Con	10	Upcom
+SCC	Công ty Cổ phần Đầu tư Thương mại Hưng Long tỉnh Hòa Bình	4	Upcom
+SCH	CTCP Thủy điện Sông chảy 5	9.1	Upcom
+SCJ	Công ty Cổ phần Xi măng Sài Sơn	4	Upcom
+SCL	Công ty Cổ phần Sông Đà Cao Cường	10	Upcom
+SCO	Công ty Cổ phần Công nghiệp Thủy sản	4.8	Upcom
+SCV	Công ty TNHH MTV Muối Việt Nam	23.5	Upcom
+SCY	Công ty Cổ phần Đóng tàu Sông Cấm	13	Upcom
+SD1	Công ty Cổ phần Sông Đà 1	1.4	Upcom
+SD3	Công ty Cổ phần Sông Đà 3	5.4	Upcom
+SD7	Công ty Cổ phần Sông Đà 7	5	Upcom
+SD8	Công ty Cổ phần Sông Đà 8	1.8	Upcom
+SDB	Công ty Cổ phần Sông Đà 207	1.2	Upcom
+SDD	Công ty Cổ phần Đầu tư và Xây lắp Sông Đà	5	Upcom
+SDE	Công ty cổ phần Kỹ thuật Điện Sông Đà	1.1	Upcom
+SDF	Công ty Tài chính cổ phần Sông Đà	6.4	Upcom
+SDH	Công ty Cổ phần Xây dựng hạ tầng Sông Đà	1.7	Upcom
+SDI	Công ty cổ phần Đầu tư và Phát triển Đô thị Sài Đồng	59.5	Upcom
+SDJ	Công ty Cổ phần Sông Đà 25	3.9	Upcom
+SDK	Công ty Cổ phần Cơ khí Luyện kim	23.3	Upcom
+SDP	Công ty cổ phần SDP	1.8	Upcom
+SDV	Công ty Cổ phần Dịch vụ Sonadezi	34.5	Upcom
+SDX	CTCP Phòng cháy chữa cháy và Đầu tư Xây dựng Sông Đà	2.5	Upcom
+SDY	Công ty Cổ phần Xi măng Sông Đà Yaly	3.1	Upcom
+SEA	Tổng công ty Thủy sản Việt Nam – CTCP	21.3	Upcom
+SEP	Công ty Cổ phần Tổng Công ty Thương mại Quảng Trị	20.3	Upcom
+SFT	CÔNG TY CỔ PHẦN SOFTECH	3	Upcom
+SGB	Ngân hàng TMCP Sài Gòn Công thương	13.6	Upcom
+SGI	CTCP Đầu tư phát triển Sài Gòn 3 Group	20.4	Upcom
+SGO	Công ty cổ phần Dầu thực vật Sài Gòn	0.8	Upcom
+SGP	Công ty Cổ phần Cảng Sài Gòn	20.8	Upcom
+SGS	Công ty Cổ phần Vận tải biển Sài Gòn	16.9	Upcom
+SHC	Công ty Cổ phần Hàng Hải Sài Gòn	9	Upcom
+SHG	Tổng Công ty Cổ phần Sông Hồng	2.3	Upcom
+SHV	Công ty Cổ phần Hải Việt	12	Upcom
+SHX	CTCP Sài Gòn Hỏa xa	12	Upcom
+SID	Công ty Cổ phần Đầu tư Phát triển Sài Gòn Co.op	11.7	Upcom
+SIG	CTCP Đầu tư và Thương mại Sông Đà	11.8	Upcom
+SIP	Công ty cổ phần Đầu tư Sài Gòn VRG	103	Upcom
+SIV	Công ty Cổ phần SIVICO	48	Upcom
+SJC	Công ty Cổ phần Sông Đà 1.01	1.4	Upcom
+SJG	Tổng Công ty Sông Đà - Công ty cổ phần	24.5	Upcom
+SJM	Công ty Cổ phần Sông Đà 19	8.6	Upcom
+SKH	CTCP Nước giải khát Sanest Khánh Hòa	24	Upcom
+SKN	CTCP Nước giải khát Sanna Khánh Hòa	10.1	Upcom
+SKV	Công ty Cổ phần Nước giải khát Yến sào Khánh Hòa	25.3	Upcom
+SLC	CTCP Dịch vụ xuất khẩu lao động và chuyên gia	8.1	Upcom
+SNC	Công ty Cổ phần Xuất nhập khẩu Thuỷ sản Năm Căn	20	Upcom
+SNZ	Tổng Công ty Cổ phần phát triển khu Công nghiệp	37.8	Upcom
+SON	Công ty Cổ phần Cung ứng nhân lực Quốc tế và Thương mại	7.5	Upcom
+SOV	Công ty cổ phần Mắt kính Sài Gòn	26.1	Upcom
+SP2	CTCP Thủy điện Sử Pán 2	16.4	Upcom
+SPA	Công ty Cổ Phần Bao bì Sài Gòn	11.1	Upcom
+SPB	Công ty cổ phần Sợi Phú Bài	39	Upcom
+SPD	Công ty Cổ phần Xuất nhập khẩu Thủy sản Miền Trung	6	Upcom
+SPH	Công ty cổ phần Xuất nhập khẩu Thủy sản Hà Nội	27	Upcom
+SPP	Công ty cổ phần Bao bì Nhựa Sài Gòn	0.9	Upcom
+SPV	Công ty cổ phần Thủy Đặc Sản	15.2	Upcom
+SQC	Công ty Cổ phần Khoáng sản Sài Gòn - Quy Nhơn	7.2	Upcom
+SRB	Công ty Cổ phần Tập đoàn Sara	4	Upcom
+SRT	Công ty Cổ phần Vận tải Đường sắt Sài Gòn	5	Upcom
+SSF	Công ty Cổ phần Giầy Sài Gòn	6.5	Upcom
+SSG	Công ty Cổ phần Vận tải biển Hải Âu	5.3	Upcom
+SSH	Công ty cổ phần Phát triển Sunshine Homes	80.5	Upcom
+SSN	Công ty Cổ phần Xuất nhập khẩu Thủy sản Sài Gòn	5.2	Upcom
+SST	CTCP Thương mại Bia Sài Gòn Sông Tiền		Upcom
+SSU	CTCP Môi trường Đô thị Sóc Sơn	2.1	Upcom
+STD	CTCP Bia - Nước giải khát Sài Gòn - Tây Đô		Upcom
+STH	CTCP Phát hành sách Thái Nguyên	9.7	Upcom
+STL	Công ty cổ phần Sông Đà - Thăng Long	3	Upcom
+STS	Công ty Cổ phần Dịch vụ Vận tải Sài Gòn	35	Upcom
+STT	Công ty cổ phần Vận chuyển Sài Gòn Tourist	2.5	Upcom
+STU	Công ty Cổ phần Môi trường và Công trình Đô thị Sơn Tây	19.9	Upcom
+STV	Công ty cổ phần Chế tác Đá Việt Nam	9.5	Upcom
+STW	Công ty cổ phần Cấp nước Sóc Trăng	2.1	Upcom
+SUM	Công ty Cổ phần Đo đạc và Khoáng sản	9	Upcom
+SVG	CTCP Hơi Kỹ nghệ Que hàn	6.5	Upcom
+SVH	Công ty Cổ phần Thủy điện Sông Vàng	6	Upcom
+SVL	Công ty Cổ phần Nhân lực Quốc tế Sovilaco	18.5	Upcom
+SWC	Tổng Công ty Cổ phần Đường Sông Miền Nam	26.8	Upcom
+SZE	Công ty Cổ phần Môi trường Sonadezi	14.7	Upcom
+SZG	CTCP Sonadezi Giang Điền	37	Upcom
+T12	Công ty Cổ phần Thương mại dịch vụ Tràng Thi	59	Upcom
+TA3	Công ty Cổ phần Đầu tư và Xây lắp Thành An 386	5.5	Upcom
+TA6	Công ty Cổ phần Đầu tư và Xây lắp Thành An 665	14	Upcom
+TAG	Công ty Cổ phần Thế giới số Trần Anh	111.6	Upcom
+TAN	Công ty TNHH Một thành viên Cà phê Thuận An	55.1	Upcom
+TAP	Công ty cổ phần Đô thị Tân An	13	Upcom
+TAW	CTCP Cấp nước Trung An	14.2	Upcom
+TB8	CTCP Sản xuất và Kinh doanh Vật tư Thiết bị - VVMI	6.5	Upcom
+TBD	Tổng Công ty Thiết bị Điện Đông Anh - Công ty Cổ phần	93.3	Upcom
+TBH	CTCP Tổng Bách Hóa	44.8	Upcom
+TBN	Công ty Cổ phần Thoát nước và Xử lý Nước thải Bắc Ninh	10	Upcom
+TBR	Công ty Cổ phần Địa ốc Tân Bình		Upcom
+TBT	Công ty Cổ phần Xây dựng Công trình Giao thông Bến Tre	4.2	Upcom
+TCI	Công ty cổ phần Chứng khoán Thành Công	8.7	Upcom
+TCJ	Công ty cổ phần Tô Châu	4.5	Upcom
+TCK	Tổng công ty cơ khí xây dựng - CTCP	3.9	Upcom
+TCW	Công ty cổ phần Kho vận Tân Cảng	24.8	Upcom
+TDA	Công ty Cổ phần Đầu tư, Xây lắp và Vật liệu Xây dựng Đông Anh		Upcom
+TDB	Công ty Cổ phần Thủy điện Định Bình	35	Upcom
+TDF	Công ty Cổ phần Trung Đô	27	Upcom
+TDS	Công ty cổ phần Thép Thủ Đức - Vnsteel	15.3	Upcom
+TEC	Công ty Cổ phần Traenco	7	Upcom
+TED	Tổng công ty Tư vấn thiết kế Giao thông vận tải -	36.9	Upcom
+TEL	Công ty Cổ phần Phát triển Công trình Viễn thông	14	Upcom
+TGP	Công ty Cổ phần Trường Phú	6	Upcom
+TH1	Công ty Cổ phần Xuất nhập khẩu Tổng hợp I Việt Nam	8.3	Upcom
+THN	Công ty Cổ phần Cấp nước Thanh Hóa	4.6	Upcom
+THP	CTCP Thủy sản và Thương mại Thuận Phước	11.7	Upcom
+THR	Công ty Cổ phần Đường sắt Thuận Hải	41.7	Upcom
+THU	Công ty Cổ phần Môi trường và Công trình Đô thị Thanh Hóa	10	Upcom
+THW	Công ty cổ phần Cấp nước Tân Hòa	6.1	Upcom
+TID	Công ty cổ phần Tổng công ty Tín Nghĩa	32.9	Upcom
+TIE	Công ty Cổ phần TIE	4.1	Upcom
+TIN	Công ty Tài chính Cổ phần Tín Việt	18.5	Upcom
+TIS	Công ty cổ phần Gang thép Thái Nguyên	7.4	Upcom
+TKA	Công ty cổ phần Bao bì Tân Khánh An	10.3	Upcom
+TKG	CTCP Sản xuất và Thương mại Tùng Khánh	12.4	Upcom
+TL4	Tổng công ty Xây dựng Thủy lợi 4 - CTCP	8.5	Upcom
+TLI	Công ty cổ phần May Quốc tế Thắng Lợi	8.6	Upcom
+TLP	Tổng Công ty Thương mại Xuất nhập khẩu Thanh Lễ - CTCP	11.4	Upcom
+TLT	Công ty Cổ phần Viglacera Thăng Long	16.2	Upcom
+TMG	Công ty Cổ phần Kim loại màu Thái Nguyên - Vimico	54.6	Upcom
+TMW	Công ty Cổ phần Tổng hợp Gỗ Tân Mai	12.7	Upcom
+TNB	Công ty Cổ phần Thép Nhà Bè - VNSTEEL	26	Upcom
+TND	CTCP Than Tây Nam Đá Mài - Vinacomin	7.6	Upcom
+TNM	Công ty Cổ phần Xuất nhập khẩu và Xây dựng Công trình	4.3	Upcom
+TNP	Công ty cổ phần Cảng Thị Nại	23.6	Upcom
+TNS	Công ty Cổ phần Thép Tấm lá Thống Nhất	4.7	Upcom
+TNW	Công ty Cổ phần Nước sạch Thái Nguyên	10	Upcom
+TNY	Công ty Cổ phần Đầu tư Xây dựng Thanh niên	11.1	Upcom
+TOP	CTCP Phân phối Top One	1.5	Upcom
+TOS	Công ty cổ phần Dịch vụ biển Tân Cảng	42.7	Upcom
+TOW	Công ty cổ phần Cấp nước Trà Nóc - Ô Môn	24.7	Upcom
+TPS	Công ty cổ phần Bến bãi Vận tải Sài Gòn	28.1	Upcom
+TQN	Công ty Cổ phần Thông Quảng Ninh	25.7	Upcom
+TQW	CTCP Cấp thoát nước Tuyên Quang	9.5	Upcom
+TR1	CTCP Vận tải 1 Traco	12.5	Upcom
+TRS	Công ty cổ phần Vận tải và Dịch vụ Hàng hải	33	Upcom
+TRT	Công ty Cổ phần RedstarCera	12	Upcom
+TS3	Công ty cổ phần Trường Sơn 532	3.7	Upcom
+TS4	Công ty cổ phần Thủy sản số 4	3	Upcom
+TS5	Công ty TNHH MTV 145	6	Upcom
+TSD	Công ty Cổ phần Du lịch Trường Sơn COECCO	7.4	Upcom
+TSG	Công ty Cổ phần Thông tin Tín hiệu Đường sắt Sài Gòn	14.2	Upcom
+TSJ	Công ty Cổ phần Du lịch Dịch vụ Hà Nội	32.3	Upcom
+TTD	Công ty Cổ phần Bệnh viện Tim Tâm Đức	48.8	Upcom
+TTG	Công ty Cổ phần May Thanh Trì	5.7	Upcom
+TTJ	Công ty Cổ phần Thủy Tạ	27	Upcom
+TTN	Công ty Cổ phần Công nghệ và Truyền thông Việt Nam	12.5	Upcom
+TTP	Công ty Cổ phần Bao bì Nhựa Tân Tiến	38.5	Upcom
+TTR	Công ty Cổ phần Du lịch Thương mại và Đầu tư	30	Upcom
+TTS	Công ty Cổ phần Cán thép Thái Trung	7.7	Upcom
+TTV	CTCP Thông tin Tín hiệu Đường sắt Vinh	2.2	Upcom
+TUG	Công ty Cổ phần Lai dắt và Vận tải Cảng Hải Phòng	18.4	Upcom
+TV1	Công ty cổ phần Tư vấn Xây dựng Điện 1	10.2	Upcom
+TV6	CTCP Thương mại Đầu tư Xây lắp điện Thịnh Vượng	8.7	Upcom
+TVA	Công ty Cổ phần Sứ Viglacera Thanh Trì	14.8	Upcom
+TVG	Công ty cổ phần Tư vấn Đầu tư và Xây dựng Giao thông Vận tải	9.1	Upcom
+TVH	Công ty cổ phần Tư vấn và Xây dựng công trình Hàng Hải	36.8	Upcom
+TVM	CTCP Tư vấn Đầu tư Mỏ và Công nghiệp - Vinacomin	9.3	Upcom
+TVN	Tổng Công ty Thép Việt Nam - CTCP	8.3	Upcom
+TVP	Công ty Cổ phần Dược phẩm TV.Pharm	79.2	Upcom
+TVU	Công ty cổ phần Công trình Đô thị Trà Vinh	8.4	Upcom
+TVW	Công ty Cổ phần Cấp thoát nước Trà Vinh	12.7	Upcom
+TW3	CTCP Dược Trung ương 3	14.2	Upcom
+UCT	Công ty Cổ phần Đô thị Cần Thơ	10.9	Upcom
+UDJ	Công ty Cổ phần Phát triển Đô thị	13	Upcom
+UDL	CTCP Đô thị và Môi trường Đắk Lắk	18.4	Upcom
+UEM	CTCP Cơ điện Uông Bí- Vinacomin	32	Upcom
+UMC	Công ty cổ phần Công trình đô thị Nam Định	9.8	Upcom
+UPC	Công ty Cổ phần Phát triển Công viên cây xanh và Đô thị Vũng Tàu	22.6	Upcom
+UPH	CTCP Dược phẩm TW25	6.2	Upcom
+USC	Công ty Cổ phần Khảo sát và Xây dựng - USCO	9.5	Upcom
+USD	Công ty cổ phần Công trình Đô thị Sóc Trăng	13.5	Upcom
+V11	Công ty Cổ phần Xây dựng số 11	1	Upcom
+V15	Công ty Cổ phần Xây dựng Số 15	0.9	Upcom
+VAB	Ngân hàng Thương mại cổ phần Việt Á	9.5	Upcom
+VAT	Công ty Cổ phần VT Vạn Xuân	1.6	Upcom
+VAV	Công ty Cổ phần VIWACO	30.9	Upcom
+VBB	Ngân hàng Thương mại cổ phần Việt Nam Thương Tín	10	Upcom
+VBG	Công ty Cổ phần Địa chất Việt Bắc - TKV	5.7	Upcom
+VBH	Công ty Cổ phần Điện tử Bình Hòa	8.4	Upcom
+VC5	Công ty Cổ phần Xây dựng số 5	1.5	Upcom
+VCE	CTCP Xây lắp Môi trường - TKV	8	Upcom
+VCP	Công ty Cổ phần Xây dựng và Năng lượng VCP	23	Upcom
+VCR	Công ty Cổ phần Đầu tư và Phát triển Du lịch Vinaconex	31.6	Upcom
+VCT	Công ty Cổ phần Tư vấn Xây dựng Vinaconex	16	Upcom
+VCW	Công ty Cổ phần Đầu tư Nước sạch Sông Đà	35.9	Upcom
+VCX	Công ty Cổ phần Xi măng Yên Bình	7	Upcom
+VDB	Công ty cổ phần Vận tải và Chế biến Than Đông Bắc	1	Upcom
+VDM	CTCP - Viện nghiên cứu Dệt may	25.5	Upcom
+VDN	Công ty Cổ phần Vinatex Đà Nẵng	18	Upcom
+VDT	Công ty cổ phần Lưới thép Bình Tây	35.1	Upcom
+VE9	Công ty Cổ phần Đầu tư và Xây dựng VNECO 9	2.8	Upcom
+VEA	Tổng Công ty Máy động lực và máy nông nghiệp Việt Nam - CTCP	43.5	Upcom
+VEC	Tổng Công ty cổ phần Điện tử và Tin học Việt Nam	15.9	Upcom
+VECX	Tổng Công ty Đầu tư phát triển đường cao tốc Việt Nam		Upcom
+VEE	Công ty Cổ phần Thiết bị điện Cẩm Phả	10	Upcom
+VEF	CTCP Trung tâm Hội chợ Triển lãm Việt Nam	143.4	Upcom
+VES	Công ty Cổ phần Đầu tư và Xây dựng điện Mê Ca Vneco	4.8	Upcom
+VET	Công ty Cổ phần Thuốc thú y Trung ương Navetco	85.8	Upcom
+VFC	Công ty Cổ phần VINAFCO	38.5	Upcom
+VFR	Công ty Cổ phần Vận tải và Thuê tàu	6.4	Upcom
+VFS	Công ty Cổ phần Chứng khoán Nhất Việt	15.5	Upcom
+VGG	Tổng Công ty cổ phần May Việt Tiến	43.3	Upcom
+VGI	Tổng Công ty cổ phần Đầu tư Quốc tế Viettel	25.5	Upcom
+VGL	CTCP Mạ kẽm công nghiệp Vingal - Vnsteel	21	Upcom
+VGR	Công ty Cổ phần Cảng Xanh VIP	37.7	Upcom
+VGT	Tập đoàn Dệt may Việt Nam	18.5	Upcom
+VGV	Tổng Công ty Tư vấn Xây dựng Việt Nam - CTCP	9.7	Upcom
+VHD	Công ty Cổ phần Đầu tư phát triển Nhà và Đô thị Vinaconex	21.7	Upcom
+VHF	Công ty Cổ phần Xây dựng và Chế biến lương thực Vĩnh Hà	9.8	Upcom
+VHG	Công ty Cổ phần Tập đoàn Tây Bà Nà	3.5	Upcom
+VHH	Công ty cổ phần Đầu tư Kinh doanh nhà Thành Đạt	8.8	Upcom
+VHI	CTCP Kinh doanh và Đầu tư Việt Hà	14.7	Upcom
+VIA	Công ty Cổ phần VIAN	8.9	Upcom
+VIH	Công ty Cổ phần Viglacera Hà Nội	12	Upcom
+VIM	Công ty Cổ phần Khoáng sản Viglacera	23.7	Upcom
+VIN	CTCP Giao nhận Kho vận Ngoại thương Việt Nam	26.2	Upcom
+VIR	Công ty cổ phần Du lịch Quốc tế Vũng Tàu	8	Upcom
+VIW	Tổng Công ty Đầu tư Nước và Môi trường Việt Nam - CTCP	17.5	Upcom
+VKD	Công ty Cổ phần Nước khoáng Khánh Hòa	95.6	Upcom
+VKP	Công ty Cổ phần Nhựa Tân Hóa		Upcom
+VLB	CTCP Xây dựng và Sản xuất Vật liệu Xây dựng Biên Hòa	36	Upcom
+VLC	Tổng Công ty Chăn nuôi Việt Nam - CTCP	19.5	Upcom
+VLF	Công ty Cổ phần Lương thực Thực phẩm Vĩnh Long	1.6	Upcom
+VLG	CTCP Vinalines Logistics - Việt Nam	6	Upcom
+VLP	Công ty Cổ phần Công trình công cộng Vĩnh Long	1.1	Upcom
+VLW	Công ty Cổ phần Cấp nước Vĩnh Long	25	Upcom
+VMA	Công ty cổ phần Công nghiệp Ô tô – Vinacomin	5.8	Upcom
+VMG	Công ty Cổ phần Thương mại và Dịch vụ Dầu khí Vũng Tàu	5.2	Upcom
+VMI	Công ty Cổ phần Khoáng sản và Đầu tư VISACO	1.2	Upcom
+VNA	Công ty Cổ phần Vận tải Biển Vinaship	33.5	Upcom
+VNB	CTCP Sách Việt Nam	11.5	Upcom
+VNH	Công ty Cổ phần Đầu tư Việt Việt Nhật	3.1	Upcom
+VNI	Công ty cổ phần Đầu tư Bất động sản Việt Nam	11.3	Upcom
+VNN	Công ty cổ phần Đầu tư và Thương mại VNN	7.3	Upcom
+VNP	Công ty cổ phần Nhựa Việt Nam	16	Upcom
+VNX	Công ty Cổ phần Quảng cáo và Hội chợ Thương mại	53	Upcom
+VNY	Công ty Cổ phần Thuốc Thú y Trung ương I	4.9	Upcom
+VOC	Tổng Công ty Công nghiệp Dầu thực vật Việt Nam - CTCP	15.2	Upcom
+VPA	CTCP Vận tải Hóa dầu VP	4	Upcom
+VPC	Công ty Cổ phần Đầu tư và Phát triển Năng lượng Việt Nam	6.7	Upcom
+VPK	Công ty Cổ phần Bao bì dầu thực vật	4.6	Upcom
+VPR	CTCP In và Thương mại Vina	24.3	Upcom
+VPW	Công ty Cổ phần Cấp thoát nước số 1 Vĩnh Phúc	6.4	Upcom
+VQC	Công ty Cổ phần Giám định Vinacomin	14.8	Upcom
+VRG	CTCP Phát triển đô thị và Khu công nghiệp Cao su Việt Nam	32.9	Upcom
+VSE	Công ty cổ phần Dịch vụ Đường cao tốc Việt Nam	8.7	Upcom
+VSF	Tổng Công ty Lương thực Miền Nam - Công ty cổ phần	6.7	Upcom
+VSG	Công ty Cổ phần Container Phía Nam	2.9	Upcom
+VSN	CTCP Việt Nam Kỹ nghệ Súc sản	25	Upcom
+VSP	Công ty cổ phần Vận tải biển và Bất động sản Việt Hải		Upcom
+VST	Công ty Cổ phần Vận tải và Thuê tàu biển Việt Nam	4.2	Upcom
+VT1	Công ty Cổ phần Vật tư Bến Thành	29	Upcom
+VT8	Công ty Cổ phần Dịch vụ Vận tải ô tô số 8	4.8	Upcom
+VTA	Công ty Cổ phần Vitaly	5.4	Upcom
+VTD	Công ty cổ phần Du lịch Vietourist	18.3	Upcom
+VTE	Công ty cổ phần Viễn thông Điện tử Vinacap	8.6	Upcom
+VTG	Công ty cổ phần Du lịch tỉnh Bà Rịa - Vũng Tàu	20.7	Upcom
+VTI	Công ty Cổ phần Sản xuất – Xuất nhập khẩu Dệt May	5.4	Upcom
+VTK	Công ty cổ phần Tư vấn Thiết kế Viettel	36	Upcom
+VTM	CTCP Vận tải và Đưa đón thợ mỏ - Vinacomin	21.8	Upcom
+VTP	Tổng Công ty cổ phần Bưu chính Viettel	55.8	Upcom
+VTQ	Công ty Cổ phần Việt Trung Quảng Bình	28	Upcom
+VTR	CTCP Du lịch và Tiếp thị Giao thông Vận tải Việt Nam - Vietravel	29.3	Upcom
+VTS	Công ty Cổ phần Viglacera Từ Sơn	11.8	Upcom
+VTX	Công ty cổ phần Vận tải đa phương thức Vietranstimex	17	Upcom
+VUA	Công ty cổ phần Chứng khoán Stanley Brothers	45.4	Upcom
+VVN	Tổng Công ty cổ phần Xây dựng công nghiệp Việt Nam	8.2	Upcom
+VW3	Công ty cổ phần Viwaseen3	21.5	Upcom
+VWS	Công ty Cổ phần Nước và Môi trường Việt Nam	14.1	Upcom
+VXP	CTCP Thuốc Thú y Trung ương VETVACO	31.2	Upcom
+VXT	CTCP Kho vận và Dịch vụ Thương mại	14.1	Upcom
+WSB	Công ty Cổ phần Bia Sài Gòn - Miền Tây	52	Upcom
+WTC	CTCP Vận tải thủy - Vinacomin	15.8	Upcom
+WTN	Công ty Cổ phần Cấp thoát nước Tây Ninh	15	Upcom
+X18	Công ty Cổ phần Xi măng X18	3.9	Upcom
+X26	Công ty cổ phần 26	35	Upcom
+X77	Công ty Cổ phần Thành An 77	0.3	Upcom
+XDH	Công ty cổ phần Đầu tư Xây dưng Dân dụng Hà Nội	9.1	Upcom
+XHC	Công ty cổ phần Xuân Hòa Việt Nam	31.5	Upcom
+XLV	Công ty Cổ phần Xây lắp và Dịch vụ Sông Đà	10.6	Upcom
+XMC	Công ty cổ phần Đầu tư và Xây dựng Xuân Mai	9.5	Upcom
+XMD	Công ty cổ phần Xuân Mai - Đạo Tú	11.9	Upcom
+XMP	CTCP Thủy điện Xuân Minh	18.6	Upcom
+XPH	Công ty Cổ phần Xà phòng Hà Nội	10.7	Upcom
+YBC	Công ty Cổ phần Xi măng và Khoáng sản Yên Bái	11.1	Upcom
+YRC	CTCP Đường sắt Yên Lào	6.3	Upcom
+YTC	Công ty Cổ phần Xuất nhập khẩu Y tế Thành phố Hồ Chí Minh	65.5	Upcom
